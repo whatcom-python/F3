@@ -1,0 +1,19 @@
+<html>
+<head><title>My First Template</title></head>
+<body>
+    <h1></h1>
+	{% if object_list %}
+	<table>
+	  <thead><tr><th>ID</th><th>Name</th></tr></thead>
+	  <tbody>
+		{% for object in object_list %}
+		<tr>
+		  <td>{{ object.id }}</td>
+		  <td>{{ object.name }}</td>
+		</tr>
+		{% endfor %}
+	  </tbody>
+	</table>
+	{% endif %}
+</body>
+</html>
