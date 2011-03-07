@@ -88,7 +88,7 @@ INSTALLED_APPS = (
     # the admin app
     'django.contrib.admin',
     # the F3 app (initial skeleton)
-    'lfnw.f3_0',
+    #'lfnw.f3_0',
     # the F3 app (final version)
-    #'lfnw.f3_final',
+    'lfnw.f3_final',
 )
