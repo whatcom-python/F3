@@ -11,6 +11,8 @@ ADMINS = (
 MANAGERS = ADMINS
 
 # --lfnw--
+# other engines: 'sqlite3', 'postgresql_psycopg2'
+# if using sqlite, comment-out DATABASE_USER and PASSWORD lines
 DATABASE_ENGINE = 'mysql'
 DATABASE_NAME = 'django'
 DATABASE_USER = 'sesame'
