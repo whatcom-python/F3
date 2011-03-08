@@ -1,4 +1,4 @@
-# Django settings for lfnw project.
+# Django settings for lfnw project. 
 
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
