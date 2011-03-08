@@ -11,10 +11,10 @@ ADMINS = (
 MANAGERS = ADMINS
 
 # --lfnw--
-DATABASE_ENGINE = 'mysql'
-DATABASE_NAME = 'django'
-DATABASE_USER = 'sesame'
-DATABASE_PASSWORD = 'logosesame'
+DATABASE_ENGINE = 'sqlite3'
+DATABASE_NAME = 'C:\\users\\prust\\Cornerstone\\Python\\whatcom-python\\f3\\f3.sqlite'
+#DATABASE_USER = 'sesame'
+#DATABASE_PASSWORD = 'logosesame'
 # DATABASE_ENGINE = ''           # 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
 # DATABASE_NAME = ''             # Or path to database file if using sqlite3.
 # DATABASE_USER = ''             # Not used with sqlite3.
@@ -71,13 +71,13 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.AuthenticationMiddleware',
 )
 
-ROOT_URLCONF = 'lfnw.urls'
+ROOT_URLCONF = 'urls'
 
 TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
-    "C:/me/django/lfnw/templates"
+    "C:\\users\\prust\\Cornerstone\\Python\\whatcom-python\\f3\\templates"
 )
 
 INSTALLED_APPS = (
@@ -90,5 +90,5 @@ INSTALLED_APPS = (
     # the F3 app (initial skeleton)
     #'lfnw.f3_0',
     # the F3 app (final version)
-    'lfnw.f3_final',
+    'f3.f3_final',
 )

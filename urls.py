@@ -4,14 +4,13 @@ from django.conf.urls.defaults import *
 from django.contrib import admin
 admin.autodiscover()
 
-import f3_0.views
+import f3_final.views
 
 urlpatterns = patterns('',
-                       (r'^ping/', f3_0.views.pingfn),
 
 
                        # dispatch to the urls for f3_final
-                       (r'^f3/', include('lfnw.f3_final.urls')),
+                       (r'^f3/', include('f3.f3_final.urls')),
 
                        # Uncomment the admin/doc line below and add 'django.contrib.admindocs' 
                        # to INSTALLED_APPS to enable admin documentation:
