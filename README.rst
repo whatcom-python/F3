@@ -54,18 +54,18 @@ Django
 
   
 F3 project
-=========
-  * This repository is the F3 project.
-  
-  * Either use Git to clone the repository to your machine or use the Downloads
-    button. If you choose the Downloads option you will be presented with a
-    choice of having the repository rolled up into either a *.zip or *.tar.gz
-    file. 
-    
-  * If you downloaded one of the compressed file formats, uncompress the archive
-    into a suitable location. NOTE: The download process creates a unique
-    directory name for the project. Now is good time to rename that directory to
-    F3 or f3.
+==========
+* This repository is the F3 project.
+
+* Either use Git to clone the repository to your machine or use the Downloads
+  button. If you choose the Downloads option you will be presented with a
+  choice of having the repository rolled up into either a \*.zip or \*.tar.gz
+  file. 
+
+* If you downloaded one of the compressed file formats, uncompress the archive
+  into a suitable location. NOTE: The download process creates a unique
+  directory name for the project. Now is good time to rename that directory to
+  F3 or f3.
   
 
     
