@@ -3,10 +3,11 @@
 1 0 obj
 << /F1 2 0 R
  /F2 3 0 R
- /F3 26 0 R
- /F4 28 0 R
- /F5 29 0 R
- /F6 30 0 R >>
+ /F3 28 0 R
+ /F4 30 0 R
+ /F5 31 0 R
+ /F6 33 0 R
+ /F7 35 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica
@@ -23,12 +24,12 @@ endobj
  /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 43 0 R
+<< /Contents 49 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 42 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -40,12 +41,12 @@ endobj
  /Type /Page >>
 endobj
 5 0 obj
-<< /Contents 44 0 R
+<< /Contents 50 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 42 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -61,7 +62,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  787.0394
@@ -78,7 +79,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  787.0394
@@ -95,7 +96,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  729.0394
@@ -112,7 +113,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  729.0394
@@ -129,7 +130,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  639.8394
@@ -146,7 +147,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  639.8394
@@ -163,14 +164,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  604.6394
  0 ]
  /Rect [ 80.01575
  703.6094
- 144.4857
+ 138.3657
  715.6094 ]
  /Subtype /Link
  /Type /Annot >>
@@ -180,7 +181,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  604.6394
@@ -197,14 +198,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 487.8394
+ 454.8394
  0 ]
  /Rect [ 80.01575
  685.6094
- 111.6957
+ 144.4857
  697.6094 ]
  /Subtype /Link
  /Type /Annot >>
@@ -214,10 +215,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 487.8394
+ 454.8394
  0 ]
  /Rect [ 549.6998
  685.6094
@@ -231,14 +232,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 304.2394
+ 338.0394
  0 ]
  /Rect [ 80.01575
  667.6094
- 124.4757
+ 111.6957
  679.6094 ]
  /Subtype /Link
  /Type /Annot >>
@@ -248,10 +249,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 304.2394
+ 338.0394
  0 ]
  /Rect [ 549.6998
  667.6094
@@ -265,14 +266,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 163.4394
+ 154.4394
  0 ]
- /Rect [ 40.01575
+ /Rect [ 80.01575
  649.6094
- 126.7157
+ 124.4757
  661.6094 ]
  /Subtype /Link
  /Type /Annot >>
@@ -282,10 +283,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 163.4394
+ 154.4394
  0 ]
  /Rect [ 549.6998
  649.6094
@@ -295,6 +296,40 @@ endobj
  /Type /Annot >>
 endobj
 20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 40.01575
+ 143.0394
+ 0 ]
+ /Rect [ 40.01575
+ 631.6094
+ 126.7157
+ 643.6094 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 40.01575
+ 143.0394
+ 0 ]
+ /Rect [ 549.6998
+ 631.6094
+ 555.2598
+ 643.6094 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+22 0 obj
 << /Annots [ 6 0 R
  7 0 R
  8 0 R
@@ -308,13 +343,15 @@ endobj
  16 0 R
  17 0 R
  18 0 R
- 19 0 R ]
- /Contents 45 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R ]
+ /Contents 51 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 42 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -325,13 +362,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-21 0 obj
-<< /Contents 46 0 R
+23 0 obj
+<< /Contents 52 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 42 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -342,7 +379,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-22 0 obj
+24 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://whatcompython.org/) >>
@@ -356,7 +393,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-23 0 obj
+25 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://sustainableconnections.org/) >>
@@ -370,7 +407,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-24 0 obj
+26 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://sustainableconnections.org/foodfarming/guidetoeatinglocal/fff-2010/wfff-listing-details/at_download/file) >>
@@ -384,7 +421,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-25 0 obj
+27 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://semanticbible.com/other/talks/2010/linuxfestnw/main.html) >>
@@ -398,14 +435,14 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-26 0 obj
+28 0 obj
 << /BaseFont /Helvetica-BoldOblique
  /Encoding /WinAnsiEncoding
  /Name /F3
  /Subtype /Type1
  /Type /Font >>
 endobj
-27 0 obj
+29 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://docs.djangoproject.com/en/1.2/intro/install/) >>
@@ -413,45 +450,38 @@ endobj
  0
  0 ]
  /Rect [ 265.2385
- 447.6094
+ 297.8094
  290.7985
- 459.6094 ]
+ 309.8094 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-28 0 obj
+30 0 obj
 << /BaseFont /Courier
  /Encoding /WinAnsiEncoding
  /Name /F4
  /Subtype /Type1
  /Type /Font >>
 endobj
-29 0 obj
+31 0 obj
 << /BaseFont /Courier-Bold
  /Encoding /WinAnsiEncoding
  /Name /F5
  /Subtype /Type1
  /Type /Font >>
 endobj
-30 0 obj
-<< /BaseFont /Helvetica-Oblique
- /Encoding /WinAnsiEncoding
- /Name /F6
- /Subtype /Type1
- /Type /Font >>
-endobj
-31 0 obj
-<< /Annots [ 22 0 R
- 23 0 R
- 24 0 R
+32 0 obj
+<< /Annots [ 24 0 R
  25 0 R
- 27 0 R ]
- /Contents 47 0 R
+ 26 0 R
+ 27 0 R
+ 29 0 R ]
+ /Contents 53 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 42 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -462,14 +492,60 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-32 0 obj
-<< /Outlines 34 0 R
- /PageLabels 48 0 R
+33 0 obj
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F6
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+34 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://127.0.0.1:8000/f3/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 267.5928
+ 189.6094
+ 377.2024
+ 201.6094 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+35 0 obj
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F7
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+36 0 obj
+<< /Annots [ 34 0 R ]
+ /Contents 54 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 48 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+37 0 obj
+<< /Outlines 39 0 R
+ /PageLabels 55 0 R
  /PageMode /UseNone
- /Pages 42 0 R
+ /Pages 48 0 R
  /Type /Catalog >>
 endobj
-33 0 obj
+38 0 obj
 << /Author ()
  /CreationDate (D:20000101000000+00'00')
  /Keywords ()
@@ -477,100 +553,112 @@ endobj
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-34 0 obj
-<< /Count 9
- /First 35 0 R
- /Last 41 0 R
+39 0 obj
+<< /Count 10
+ /First 40 0 R
+ /Last 47 0 R
  /Type /Outlines >>
 endobj
-35 0 obj
-<< /Count 5
- /Dest [ 31 0 R
+40 0 obj
+<< /Count 6
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 36 0 R
- /Last 37 0 R
- /Next 41 0 R
- /Parent 34 0 R
+ /First 41 0 R
+ /Last 42 0 R
+ /Next 47 0 R
+ /Parent 39 0 R
  /Title (Welcome to F3's documentation!) >>
 endobj
-36 0 obj
-<< /Dest [ 31 0 R
+41 0 obj
+<< /Dest [ 32 0 R
  /XYZ
  40.01575
  729.0394
  0 ]
- /Next 37 0 R
- /Parent 35 0 R
+ /Next 42 0 R
+ /Parent 40 0 R
  /Title (Project Introduction) >>
 endobj
-37 0 obj
-<< /Count 3
- /Dest [ 31 0 R
+42 0 obj
+<< /Count 4
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  639.8394
  0 ]
- /First 38 0 R
- /Last 40 0 R
- /Parent 35 0 R
- /Prev 36 0 R
+ /First 43 0 R
+ /Last 46 0 R
+ /Parent 40 0 R
+ /Prev 41 0 R
  /Title (Setup) >>
 endobj
-38 0 obj
-<< /Dest [ 31 0 R
+43 0 obj
+<< /Dest [ 32 0 R
  /XYZ
  40.01575
  604.6394
  0 ]
- /Next 39 0 R
- /Parent 37 0 R
+ /Next 44 0 R
+ /Parent 42 0 R
+ /Title (Prerequisites) >>
+endobj
+44 0 obj
+<< /Dest [ 32 0 R
+ /XYZ
+ 40.01575
+ 454.8394
+ 0 ]
+ /Next 45 0 R
+ /Parent 42 0 R
+ /Prev 43 0 R
  /Title (General Notes) >>
 endobj
-39 0 obj
-<< /Dest [ 31 0 R
+45 0 obj
+<< /Dest [ 32 0 R
  /XYZ
  40.01575
- 487.8394
+ 338.0394
  0 ]
- /Next 40 0 R
- /Parent 37 0 R
- /Prev 38 0 R
+ /Next 46 0 R
+ /Parent 42 0 R
+ /Prev 44 0 R
  /Title (Django) >>
 endobj
-40 0 obj
-<< /Dest [ 31 0 R
+46 0 obj
+<< /Dest [ 32 0 R
  /XYZ
  40.01575
- 304.2394
+ 154.4394
  0 ]
- /Parent 37 0 R
- /Prev 39 0 R
+ /Parent 42 0 R
+ /Prev 45 0 R
  /Title (F3 project) >>
 endobj
-41 0 obj
-<< /Dest [ 31 0 R
+47 0 obj
+<< /Dest [ 36 0 R
  /XYZ
  40.01575
- 163.4394
+ 143.0394
  0 ]
- /Parent 34 0 R
- /Prev 35 0 R
+ /Parent 39 0 R
+ /Prev 40 0 R
  /Title (Indices and tables) >>
 endobj
-42 0 obj
-<< /Count 5
+48 0 obj
+<< /Count 6
  /Kids [ 4 0 R
  5 0 R
- 20 0 R
- 21 0 R
- 31 0 R ]
+ 22 0 R
+ 23 0 R
+ 32 0 R
+ 36 0 R ]
  /Type /Pages >>
 endobj
-43 0 obj
-<< /Length 940 >>
+49 0 obj
+<< /Length 953 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -606,7 +694,7 @@ q
 1 0 0 1 40.01575 629.6 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 5.784 Tm /F2 12 Tf 14.4 TL 218.61 0 Td (Adrian Klaver) Tj T* -218.61 0 Td ET
+BT 1 0 0 1 0 5.784 Tm /F2 12 Tf 14.4 TL 170.61 0 Td (Whatcom Python Users Group) Tj T* -170.61 0 Td ET
 Q
 Q
 q
@@ -629,7 +717,7 @@ Q
 endstream
 
 endobj
-44 0 obj
+50 0 obj
 << /Length 79 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -640,8 +728,8 @@ Q
 endstream
 
 endobj
-45 0 obj
-<< /Length 2152 >>
+51 0 obj
+<< /Length 2404 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -657,17 +745,17 @@ BT 1 0 0 1 0 9.64 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Contents) Tj T* 
 Q
 Q
 q
-1 0 0 1 40.01575 643.0394 cm
+1 0 0 1 40.01575 625.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 0 111 cm
+1 0 0 1 0 129 cm
 q
 BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Welcome to F3's documentation!) Tj T* ET
 Q
 Q
 q
-1 0 0 1 443.2441 111 cm
+1 0 0 1 443.2441 129 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -675,9 +763,23 @@ BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
 Q
 Q
 q
-1 0 0 1 0 93 cm
+1 0 0 1 0 111 cm
 q
 BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Project Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Setup) Tj T* ET
 Q
 Q
 q
@@ -691,7 +793,7 @@ Q
 q
 1 0 0 1 0 75 cm
 q
-BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Setup) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Prerequisites) Tj T* ET
 Q
 Q
 q
@@ -755,23 +857,23 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 643.0394 cm
+1 0 0 1 40.01575 625.0394 cm
 Q
 q
-1 0 0 1 40.01575 643.0394 cm
+1 0 0 1 40.01575 625.0394 cm
 Q
  
 endstream
 
 endobj
-46 0 obj
+52 0 obj
 << /Length 79 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -782,8 +884,8 @@ Q
 endstream
 
 endobj
-47 0 obj
-<< /Length 9276 >>
+53 0 obj
+<< /Length 9832 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -844,25 +946,201 @@ q
 n -10 0 525.2441 22.8 re B*
 Q
 q
+BT 1 0 0 1 0 6.748 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Prerequisites) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 575.8394 cm
+Q
+q
+1 0 0 1 40.01575 575.8394 cm
+Q
+q
+1 0 0 1 40.01575 563.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Python 2.5-2.7. Versions 3.0+ not supported) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 557.8394 cm
+Q
+q
+1 0 0 1 40.01575 545.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Django Current release) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 539.8394 cm
+Q
+q
+1 0 0 1 40.01575 470.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (Database options.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 44 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Sqlite. Included in the above versions of Python. Default) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Postgres. Some assembly required.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (MySQL. Some assembly required) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 470.8394 cm
+Q
+q
+1 0 0 1 40.01575 438.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
 BT 1 0 0 1 0 6.748 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (General Notes) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 545.8394 cm
+1 0 0 1 40.01575 396.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .500205 Tw (As mentioned above the project is using Django as its Web framework. Before starting the set up a general idea of) Tj T* 0 Tw .046004 Tw (the layout is in order. In the Django world the root of the site is known as the project. Within the project there are one) Tj T* 0 Tw (or more applications. This repository represents the F3 project and its associated application f3_final.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 503.8394 cm
+1 0 0 1 40.01575 354.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .720241 Tw (Django uses a database\(s\) to store information. For this project the default database is Sqlite. The primary reason) Tj T* 0 Tw .384004 Tw (being that it is included with Python 2.5+. The other reasons are that it is a single file and has simple administrative) Tj T* 0 Tw (needs. MySQL and Postgres have also been used. See the F3 section below for more information.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 471.0394 cm
+1 0 0 1 40.01575 321.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -874,13 +1152,13 @@ BT 1 0 0 1 0 6.748 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Django) Tj T*
 Q
 Q
 q
-1 0 0 1 40.01575 459.0394 cm
+1 0 0 1 40.01575 309.2394 cm
 Q
 q
-1 0 0 1 40.01575 459.0394 cm
+1 0 0 1 40.01575 309.2394 cm
 Q
 q
-1 0 0 1 40.01575 435.0394 cm
+1 0 0 1 40.01575 285.2394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -900,10 +1178,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 429.0394 cm
+1 0 0 1 40.01575 279.2394 cm
 Q
 q
-1 0 0 1 40.01575 338.2394 cm
+1 0 0 1 40.01575 188.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -943,10 +1221,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 332.2394 cm
+1 0 0 1 40.01575 182.4394 cm
 Q
 q
-1 0 0 1 40.01575 320.2394 cm
+1 0 0 1 40.01575 170.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -967,10 +1245,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 320.2394 cm
+1 0 0 1 40.01575 170.4394 cm
 Q
 q
-1 0 0 1 40.01575 287.4394 cm
+1 0 0 1 40.01575 137.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -982,13 +1260,13 @@ BT 1 0 0 1 0 6.748 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (F3 project) T
 Q
 Q
 q
-1 0 0 1 40.01575 275.4394 cm
+1 0 0 1 40.01575 125.6394 cm
 Q
 q
-1 0 0 1 40.01575 275.4394 cm
+1 0 0 1 40.01575 125.6394 cm
 Q
 q
-1 0 0 1 40.01575 263.4394 cm
+1 0 0 1 40.01575 113.6394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1009,10 +1287,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 257.4394 cm
+1 0 0 1 40.01575 107.6394 cm
 Q
 q
-1 0 0 1 40.01575 221.4394 cm
+1 0 0 1 40.01575 71.63937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1033,124 +1311,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 215.4394 cm
-Q
-q
-1 0 0 1 40.01575 179.4394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 21 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .334631 Tw (If you downloaded one of the compressed file formats, uncompress the archive into a suitable location. NOTE:) Tj T* 0 Tw 1.9173 Tw (The download process creates a unique directory name for the project. Now is good time to rename that) Tj T* 0 Tw (directory to F3 or f3.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 179.4394 cm
-Q
-q
-1 0 0 1 40.01575 139.4394 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 30 re B*
-Q
-q
-BT 1 0 0 1 0 9.64 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Indices and tables) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 127.4394 cm
-Q
-q
-1 0 0 1 40.01575 127.4394 cm
-Q
-q
-1 0 0 1 40.01575 115.4394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F6 10 Tf 12 TL (genindex) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 109.4394 cm
-Q
-q
-1 0 0 1 40.01575 97.43937 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F6 10 Tf 12 TL (modindex) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 91.43937 cm
-Q
-q
-1 0 0 1 40.01575 79.43937 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F6 10 Tf 12 TL (search) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 79.43937 cm
-Q
-q
-1 0 0 1 40.01575 79.43937 cm
+1 0 0 1 40.01575 65.63937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -1170,114 +1331,526 @@ Q
 endstream
 
 endobj
-48 0 obj
+54 0 obj
+<< /Length 10197 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 751.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 28.82 Tm .300256 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you downloaded one of the compressed file formats, uncompress the archive into a suitable location. ) Tj /F2 10 Tf (NOTE:) Tj T* 0 Tw 1.9173 Tw /F1 10 Tf (The download process creates a unique directory name for the project. Now is good time to rename that) Tj T* 0 Tw (directory to F3) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 745.0394 cm
+Q
+q
+1 0 0 1 40.01575 496.2394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 233.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 197.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL .037913 Tw (If you plan on using Sqlite as the database skip to the next step. If not, there is some housekeeping to be done.) Tj T* 0 Tw 2.985606 Tw (Using the appropriate database tool create a database; suggested name-f3. Also create a user with a) Tj T* 0 Tw 1.588476 Tw (password that has sufficient rights to administer the database. You will then need to make changes to the) Tj T* 0 Tw (settings.py file in the project root\(F3/\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 47 cm
+q
+q
+q
+1 0 0 1 4.4 .4 cm
+q
+.666667 .8 .6 RG
+.3 w
+.933333 1 .8 rg
+n -4 0 491.4441 150 re B*
+Q
+q
+BT 1 0 0 1 0 137.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (DATABASE_ENGINE) Tj ( ) Tj .188235 .188235 .188235 rg (=) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('sqlite3') Tj 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (# 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.) Tj /F4 10 Tf 0 0 0 rg  T* (DATABASE_NAME) Tj ( ) Tj .188235 .188235 .188235 rg (=) Tj 0 0 0 rg ( ) Tj (os) Tj .188235 .188235 .188235 rg (.) Tj 0 0 0 rg (path) Tj .188235 .188235 .188235 rg (.) Tj 0 0 0 rg (join) Tj (\() Tj (basedir) Tj (,) Tj ( ) Tj .729412 .129412 .129412 rg ('f3.sqlite') Tj 0 0 0 rg (\)) Tj  T* /F6 10 Tf .501961 .501961 .501961 rg (# Or path to database file if using sqlite3.) Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (#DATABASE_USER = '') Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (# Not used with sqlite3.) Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (#DATABASE_PASSWORD = '') Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (# Not used with sqlite3.) Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (#DATABASE_HOST = '') Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (# Set to empty string for localhost. Not used with sqlite3.) Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (#DATABASE_PORT = '') Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (# Set to empty string for default. Not used with sqlite3.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL 1.099006 Tw (Note:The settings comments have been put under the SETTING for formatting purposes. In the file they will) Tj T* 0 Tw 1.465341 Tw (follow the SETTING. Set DATABASE_ENGINE to the appropriate one and change the DATABASE_NAME.) Tj T* 0 Tw (Uncomment the other SETTING lines and fill in the information as needed.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 490.2394 cm
+Q
+q
+1 0 0 1 40.01575 409.4394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 65.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 65.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Change directories to the root of the project F3/. From there run:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 47 cm
+q
+q
+q
+1 0 0 1 4.4 .4 cm
+q
+.666667 .8 .6 RG
+.3 w
+.933333 1 .8 rg
+n -4 0 491.4441 18 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (manage) Tj .188235 .188235 .188235 rg (.) Tj 0 0 0 rg (py) Tj ( ) Tj (syncdb) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .379205 Tw (This will populate the database with the application tables. Also when run the first time, it will ask to create the) Tj T* 0 Tw .889116 Tw (the Django authorization system. You want to say 'yes' to this. The script will prompt you for information and) Tj T* 0 Tw (then create the authorization tables.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 403.4394 cm
+Q
+q
+1 0 0 1 40.01575 327.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 60.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 60.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Load data for project. To get the initial data into the database do:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 41.8 cm
+q
+q
+q
+1 0 0 1 4.4 .4 cm
+q
+.666667 .8 .6 RG
+.3 w
+.933333 1 .8 rg
+n -4 0 491.4441 18 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (manage) Tj .188235 .188235 .188235 rg (.) Tj 0 0 0 rg (py) Tj ( ) Tj (loaddata) Tj ( ) Tj (f3_final) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 15.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (At successful completion you should see something like:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+q
+1 0 0 1 4.4 .4 cm
+q
+.666667 .8 .6 RG
+.3 w
+.933333 1 .8 rg
+n -4 0 491.4441 18 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (Installed) Tj ( ) Tj (XXX) Tj ( ) Tj (object) Tj (\() Tj (s) Tj (\)) Tj ( ) Tj (from) Tj ( ) Tj (Y) Tj ( ) Tj (fixture) Tj (\() Tj (s) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 321.8394 cm
+Q
+q
+1 0 0 1 40.01575 207.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 99.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 87.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .018705 Tw (Run built in Web server. Django has its own Web server that is sufficient for development work. It should not be) Tj T* 0 Tw (used in production. To start the server, from the project root do:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+q
+1 0 0 1 4.4 .4 cm
+q
+.666667 .8 .6 RG
+.3 w
+.933333 1 .8 rg
+n -4 0 491.4441 90 re B*
+Q
+q
+BT 1 0 0 1 0 77.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (manage) Tj .188235 .188235 .188235 rg (.) Tj 0 0 0 rg (py) Tj ( ) Tj (runserver) Tj  T* (Validating) Tj ( ) Tj (models) Tj .188235 .188235 .188235 rg (...) Tj 0 0 0 rg  T*  T* /F5 10 Tf 0 0 .815686 rg (0) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (errors) Tj ( ) Tj (found) Tj  T* (Django) Tj ( ) Tj (version) Tj ( ) Tj /F5 10 Tf 0 0 .815686 rg (1) Tj /F4 10 Tf .188235 .188235 .188235 rg (.) Tj /F5 10 Tf 0 0 .815686 rg (3) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (rc) Tj ( ) Tj /F5 10 Tf 0 0 .815686 rg (1) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (SVN) Tj .188235 .188235 .188235 rg (-) Tj /F5 10 Tf 0 0 .815686 rg (15770) Tj /F4 10 Tf 0 0 0 rg (,) Tj ( ) Tj (using) Tj ( ) Tj (settings) Tj ( ) Tj .729412 .129412 .129412 rg ('f3.settings') Tj 0 0 0 rg  T* (Development) Tj ( ) Tj (server) Tj ( ) Tj (is) Tj ( ) Tj (running) Tj ( ) Tj (at) Tj ( ) Tj (http:) Tj (//) Tj /F5 10 Tf 0 0 .815686 rg (127) Tj /F4 10 Tf .188235 .188235 .188235 rg (.) Tj /F5 10 Tf 0 0 .815686 rg (0) Tj /F4 10 Tf .188235 .188235 .188235 rg (.) Tj /F5 10 Tf 0 0 .815686 rg (0) Tj /F4 10 Tf .188235 .188235 .188235 rg (.) Tj /F5 10 Tf 0 0 .815686 rg (1) Tj /F4 10 Tf 0 0 0 rg (:) Tj /F5 10 Tf 0 0 .815686 rg (8000) Tj /F4 10 Tf .188235 .188235 .188235 rg (/) Tj 0 0 0 rg  T* (Quit) Tj ( ) Tj (the) Tj ( ) Tj (server) Tj ( ) Tj (with) Tj ( ) Tj (CONTROL) Tj .188235 .188235 .188235 rg (-) Tj 0 0 0 rg (C) Tj .188235 .188235 .188235 rg (.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 201.0394 cm
+Q
+q
+1 0 0 1 40.01575 177.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 16.82 Tm 1.189631 Tw 12 TL /F1 10 Tf 0 0 0 rg (Verify site is working. In Web browser enter ) Tj 0 0 .501961 rg (http://127.0.0.1:8000/f3/ ) Tj 0 0 0 rg (You should see "this is the Hello world) Tj T* 0 Tw (from f3") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 171.0394 cm
+Q
+q
+1 0 0 1 40.01575 159.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Congratulations you are up and running.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 159.0394 cm
+Q
+q
+1 0 0 1 40.01575 119.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 9.64 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Indices and tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 107.0394 cm
+Q
+q
+1 0 0 1 40.01575 107.0394 cm
+Q
+q
+1 0 0 1 40.01575 95.03937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F7 10 Tf 12 TL (genindex) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 89.03937 cm
+Q
+q
+1 0 0 1 40.01575 77.03937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F7 10 Tf 12 TL (modindex) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 71.03937 cm
+Q
+q
+1 0 0 1 40.01575 59.03937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F7 10 Tf 12 TL (search) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 59.03937 cm
+Q
+q
+1 0 0 1 40.01575 59.03937 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Indices and tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+55 0 obj
 << /Nums [ 0
- 49 0 R
+ 56 0 R
  1
- 50 0 R
+ 57 0 R
  2
- 51 0 R
+ 58 0 R
  3
- 52 0 R
+ 59 0 R
  4
- 53 0 R ] >>
+ 60 0 R
+ 5
+ 61 0 R ] >>
 endobj
-49 0 obj
+56 0 obj
 << /S /D
  /St 1 >>
 endobj
-50 0 obj
+57 0 obj
 << /S /D
  /St 2 >>
 endobj
-51 0 obj
+58 0 obj
 << /S /r
  /St 1 >>
 endobj
-52 0 obj
+59 0 obj
 << /S /r
  /St 2 >>
 endobj
-53 0 obj
+60 0 obj
 << /S /D
  /St 1 >>
+endobj
+61 0 obj
+<< /S /D
+ /St 2 >>
 endobj
 xref
-0 54
+0 62
 0000000000 65535 f
 0000000075 00000 n
-0000000173 00000 n
-0000000291 00000 n
-0000000414 00000 n
-0000000647 00000 n
-0000000880 00000 n
-0000001079 00000 n
-0000001278 00000 n
-0000001477 00000 n
-0000001676 00000 n
-0000001876 00000 n
-0000002076 00000 n
-0000002276 00000 n
-0000002476 00000 n
-0000002676 00000 n
-0000002876 00000 n
-0000003076 00000 n
-0000003276 00000 n
-0000003476 00000 n
-0000003676 00000 n
-0000004044 00000 n
-0000004278 00000 n
-0000004481 00000 n
-0000004693 00000 n
-0000004982 00000 n
-0000005223 00000 n
-0000005354 00000 n
-0000005583 00000 n
-0000005700 00000 n
-0000005822 00000 n
-0000005949 00000 n
-0000006240 00000 n
-0000006357 00000 n
-0000006540 00000 n
-0000006623 00000 n
-0000006814 00000 n
-0000006953 00000 n
-0000007119 00000 n
-0000007251 00000 n
-0000007391 00000 n
-0000007520 00000 n
-0000007657 00000 n
-0000007759 00000 n
-0000008757 00000 n
-0000008893 00000 n
-0000011104 00000 n
-0000011240 00000 n
-0000020575 00000 n
-0000020673 00000 n
-0000020712 00000 n
-0000020751 00000 n
-0000020790 00000 n
-0000020829 00000 n
+0000000186 00000 n
+0000000304 00000 n
+0000000427 00000 n
+0000000660 00000 n
+0000000893 00000 n
+0000001092 00000 n
+0000001291 00000 n
+0000001490 00000 n
+0000001689 00000 n
+0000001889 00000 n
+0000002089 00000 n
+0000002289 00000 n
+0000002489 00000 n
+0000002689 00000 n
+0000002889 00000 n
+0000003089 00000 n
+0000003289 00000 n
+0000003489 00000 n
+0000003689 00000 n
+0000003889 00000 n
+0000004089 00000 n
+0000004475 00000 n
+0000004709 00000 n
+0000004912 00000 n
+0000005124 00000 n
+0000005413 00000 n
+0000005654 00000 n
+0000005785 00000 n
+0000006014 00000 n
+0000006131 00000 n
+0000006253 00000 n
+0000006544 00000 n
+0000006669 00000 n
+0000006872 00000 n
+0000006999 00000 n
+0000007254 00000 n
+0000007371 00000 n
+0000007554 00000 n
+0000007638 00000 n
+0000007829 00000 n
+0000007968 00000 n
+0000008134 00000 n
+0000008266 00000 n
+0000008413 00000 n
+0000008553 00000 n
+0000008682 00000 n
+0000008819 00000 n
+0000008930 00000 n
+0000009941 00000 n
+0000010077 00000 n
+0000012540 00000 n
+0000012676 00000 n
+0000022567 00000 n
+0000032824 00000 n
+0000032935 00000 n
+0000032974 00000 n
+0000033013 00000 n
+0000033052 00000 n
+0000033091 00000 n
+0000033130 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
 
- /Info 33 0 R
- /Root 32 0 R
- /Size 54 >>
+ /Info 38 0 R
+ /Root 37 0 R
+ /Size 62 >>
 startxref
-20868
+33169
 %%EOF
 %PDF-1.3
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 << /F1 2 0 R
  /F2 3 0 R
- /F3 26 0 R
- /F4 28 0 R
- /F5 29 0 R
- /F6 30 0 R >>
+ /F3 28 0 R
+ /F4 30 0 R
+ /F5 31 0 R
+ /F6 33 0 R
+ /F7 35 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica
@@ -1294,12 +1867,12 @@ endobj
  /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 43 0 R
+<< /Contents 49 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 42 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1311,12 +1884,12 @@ endobj
  /Type /Page >>
 endobj
 5 0 obj
-<< /Contents 44 0 R
+<< /Contents 50 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 42 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1332,7 +1905,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  787.0394
@@ -1349,7 +1922,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  787.0394
@@ -1366,7 +1939,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  729.0394
@@ -1383,7 +1956,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  729.0394
@@ -1400,7 +1973,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  639.8394
@@ -1417,7 +1990,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  639.8394
@@ -1434,14 +2007,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  604.6394
  0 ]
  /Rect [ 80.01575
  703.6094
- 144.4857
+ 138.3657
  715.6094 ]
  /Subtype /Link
  /Type /Annot >>
@@ -1451,7 +2024,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  604.6394
@@ -1468,14 +2041,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 487.8394
+ 454.8394
  0 ]
  /Rect [ 80.01575
  685.6094
- 111.6957
+ 144.4857
  697.6094 ]
  /Subtype /Link
  /Type /Annot >>
@@ -1485,10 +2058,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 487.8394
+ 454.8394
  0 ]
  /Rect [ 549.6998
  685.6094
@@ -1502,14 +2075,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 304.2394
+ 338.0394
  0 ]
  /Rect [ 80.01575
  667.6094
- 124.4757
+ 111.6957
  679.6094 ]
  /Subtype /Link
  /Type /Annot >>
@@ -1519,10 +2092,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 304.2394
+ 338.0394
  0 ]
  /Rect [ 549.6998
  667.6094
@@ -1536,14 +2109,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 163.4394
+ 154.4394
  0 ]
- /Rect [ 40.01575
+ /Rect [ 80.01575
  649.6094
- 126.7157
+ 124.4757
  661.6094 ]
  /Subtype /Link
  /Type /Annot >>
@@ -1553,10 +2126,10 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 31 0 R
+ /Dest [ 32 0 R
  /XYZ
  40.01575
- 163.4394
+ 154.4394
  0 ]
  /Rect [ 549.6998
  649.6094
@@ -1566,6 +2139,40 @@ endobj
  /Type /Annot >>
 endobj
 20 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 40.01575
+ 143.0394
+ 0 ]
+ /Rect [ 40.01575
+ 631.6094
+ 126.7157
+ 643.6094 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+21 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 36 0 R
+ /XYZ
+ 40.01575
+ 143.0394
+ 0 ]
+ /Rect [ 549.6998
+ 631.6094
+ 555.2598
+ 643.6094 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+22 0 obj
 << /Annots [ 6 0 R
  7 0 R
  8 0 R
@@ -1579,13 +2186,15 @@ endobj
  16 0 R
  17 0 R
  18 0 R
- 19 0 R ]
- /Contents 45 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R ]
+ /Contents 51 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 42 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1596,13 +2205,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-21 0 obj
-<< /Contents 46 0 R
+23 0 obj
+<< /Contents 52 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 42 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1613,7 +2222,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-22 0 obj
+24 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://whatcompython.org/) >>
@@ -1627,7 +2236,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-23 0 obj
+25 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://sustainableconnections.org/) >>
@@ -1641,7 +2250,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-24 0 obj
+26 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://sustainableconnections.org/foodfarming/guidetoeatinglocal/fff-2010/wfff-listing-details/at_download/file) >>
@@ -1655,7 +2264,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-25 0 obj
+27 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://semanticbible.com/other/talks/2010/linuxfestnw/main.html) >>
@@ -1669,14 +2278,14 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-26 0 obj
+28 0 obj
 << /BaseFont /Helvetica-BoldOblique
  /Encoding /WinAnsiEncoding
  /Name /F3
  /Subtype /Type1
  /Type /Font >>
 endobj
-27 0 obj
+29 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://docs.djangoproject.com/en/1.2/intro/install/) >>
@@ -1684,45 +2293,38 @@ endobj
  0
  0 ]
  /Rect [ 265.2385
- 447.6094
+ 297.8094
  290.7985
- 459.6094 ]
+ 309.8094 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
-28 0 obj
+30 0 obj
 << /BaseFont /Courier
  /Encoding /WinAnsiEncoding
  /Name /F4
  /Subtype /Type1
  /Type /Font >>
 endobj
-29 0 obj
+31 0 obj
 << /BaseFont /Courier-Bold
  /Encoding /WinAnsiEncoding
  /Name /F5
  /Subtype /Type1
  /Type /Font >>
 endobj
-30 0 obj
-<< /BaseFont /Helvetica-Oblique
- /Encoding /WinAnsiEncoding
- /Name /F6
- /Subtype /Type1
- /Type /Font >>
-endobj
-31 0 obj
-<< /Annots [ 22 0 R
- 23 0 R
- 24 0 R
+32 0 obj
+<< /Annots [ 24 0 R
  25 0 R
- 27 0 R ]
- /Contents 47 0 R
+ 26 0 R
+ 27 0 R
+ 29 0 R ]
+ /Contents 53 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 42 0 R
+ /Parent 48 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1733,14 +2335,60 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-32 0 obj
-<< /Outlines 34 0 R
- /PageLabels 48 0 R
+33 0 obj
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F6
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+34 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://127.0.0.1:8000/f3/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 267.5928
+ 189.6094
+ 377.2024
+ 201.6094 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+35 0 obj
+<< /BaseFont /Helvetica-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F7
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+36 0 obj
+<< /Annots [ 34 0 R ]
+ /Contents 54 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 48 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+37 0 obj
+<< /Outlines 39 0 R
+ /PageLabels 55 0 R
  /PageMode /UseNone
- /Pages 42 0 R
+ /Pages 48 0 R
  /Type /Catalog >>
 endobj
-33 0 obj
+38 0 obj
 << /Author ()
  /CreationDate (D:20000101000000+00'00')
  /Keywords ()
@@ -1748,100 +2396,112 @@ endobj
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-34 0 obj
-<< /Count 9
- /First 35 0 R
- /Last 41 0 R
+39 0 obj
+<< /Count 10
+ /First 40 0 R
+ /Last 47 0 R
  /Type /Outlines >>
 endobj
-35 0 obj
-<< /Count 5
- /Dest [ 31 0 R
+40 0 obj
+<< /Count 6
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 36 0 R
- /Last 37 0 R
- /Next 41 0 R
- /Parent 34 0 R
+ /First 41 0 R
+ /Last 42 0 R
+ /Next 47 0 R
+ /Parent 39 0 R
  /Title (Welcome to F3's documentation!) >>
 endobj
-36 0 obj
-<< /Dest [ 31 0 R
+41 0 obj
+<< /Dest [ 32 0 R
  /XYZ
  40.01575
  729.0394
  0 ]
- /Next 37 0 R
- /Parent 35 0 R
+ /Next 42 0 R
+ /Parent 40 0 R
  /Title (Project Introduction) >>
 endobj
-37 0 obj
-<< /Count 3
- /Dest [ 31 0 R
+42 0 obj
+<< /Count 4
+ /Dest [ 32 0 R
  /XYZ
  40.01575
  639.8394
  0 ]
- /First 38 0 R
- /Last 40 0 R
- /Parent 35 0 R
- /Prev 36 0 R
+ /First 43 0 R
+ /Last 46 0 R
+ /Parent 40 0 R
+ /Prev 41 0 R
  /Title (Setup) >>
 endobj
-38 0 obj
-<< /Dest [ 31 0 R
+43 0 obj
+<< /Dest [ 32 0 R
  /XYZ
  40.01575
  604.6394
  0 ]
- /Next 39 0 R
- /Parent 37 0 R
+ /Next 44 0 R
+ /Parent 42 0 R
+ /Title (Prerequisites) >>
+endobj
+44 0 obj
+<< /Dest [ 32 0 R
+ /XYZ
+ 40.01575
+ 454.8394
+ 0 ]
+ /Next 45 0 R
+ /Parent 42 0 R
+ /Prev 43 0 R
  /Title (General Notes) >>
 endobj
-39 0 obj
-<< /Dest [ 31 0 R
+45 0 obj
+<< /Dest [ 32 0 R
  /XYZ
  40.01575
- 487.8394
+ 338.0394
  0 ]
- /Next 40 0 R
- /Parent 37 0 R
- /Prev 38 0 R
+ /Next 46 0 R
+ /Parent 42 0 R
+ /Prev 44 0 R
  /Title (Django) >>
 endobj
-40 0 obj
-<< /Dest [ 31 0 R
+46 0 obj
+<< /Dest [ 32 0 R
  /XYZ
  40.01575
- 304.2394
+ 154.4394
  0 ]
- /Parent 37 0 R
- /Prev 39 0 R
+ /Parent 42 0 R
+ /Prev 45 0 R
  /Title (F3 project) >>
 endobj
-41 0 obj
-<< /Dest [ 31 0 R
+47 0 obj
+<< /Dest [ 36 0 R
  /XYZ
  40.01575
- 163.4394
+ 143.0394
  0 ]
- /Parent 34 0 R
- /Prev 35 0 R
+ /Parent 39 0 R
+ /Prev 40 0 R
  /Title (Indices and tables) >>
 endobj
-42 0 obj
-<< /Count 5
+48 0 obj
+<< /Count 6
  /Kids [ 4 0 R
  5 0 R
- 20 0 R
- 21 0 R
- 31 0 R ]
+ 22 0 R
+ 23 0 R
+ 32 0 R
+ 36 0 R ]
  /Type /Pages >>
 endobj
-43 0 obj
-<< /Length 940 >>
+49 0 obj
+<< /Length 953 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -1877,7 +2537,7 @@ q
 1 0 0 1 40.01575 629.6 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 5.784 Tm /F2 12 Tf 14.4 TL 218.61 0 Td (Adrian Klaver) Tj T* -218.61 0 Td ET
+BT 1 0 0 1 0 5.784 Tm /F2 12 Tf 14.4 TL 170.61 0 Td (Whatcom Python Users Group) Tj T* -170.61 0 Td ET
 Q
 Q
 q
@@ -1900,7 +2560,7 @@ Q
 endstream
 
 endobj
-44 0 obj
+50 0 obj
 << /Length 79 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -1911,8 +2571,8 @@ Q
 endstream
 
 endobj
-45 0 obj
-<< /Length 2152 >>
+51 0 obj
+<< /Length 2404 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -1928,17 +2588,17 @@ BT 1 0 0 1 0 9.64 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Contents) Tj T* 
 Q
 Q
 q
-1 0 0 1 40.01575 643.0394 cm
+1 0 0 1 40.01575 625.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 0 111 cm
+1 0 0 1 0 129 cm
 q
 BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Welcome to F3's documentation!) Tj T* ET
 Q
 Q
 q
-1 0 0 1 443.2441 111 cm
+1 0 0 1 443.2441 129 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -1946,9 +2606,23 @@ BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
 Q
 Q
 q
-1 0 0 1 0 93 cm
+1 0 0 1 0 111 cm
 q
 BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Project Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Setup) Tj T* ET
 Q
 Q
 q
@@ -1962,7 +2636,7 @@ Q
 q
 1 0 0 1 0 75 cm
 q
-BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Setup) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Prerequisites) Tj T* ET
 Q
 Q
 q
@@ -2026,23 +2700,23 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 40.01575 643.0394 cm
+1 0 0 1 40.01575 625.0394 cm
 Q
 q
-1 0 0 1 40.01575 643.0394 cm
+1 0 0 1 40.01575 625.0394 cm
 Q
  
 endstream
 
 endobj
-46 0 obj
+52 0 obj
 << /Length 79 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -2053,8 +2727,8 @@ Q
 endstream
 
 endobj
-47 0 obj
-<< /Length 9276 >>
+53 0 obj
+<< /Length 9832 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -2115,25 +2789,201 @@ q
 n -10 0 525.2441 22.8 re B*
 Q
 q
+BT 1 0 0 1 0 6.748 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Prerequisites) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 575.8394 cm
+Q
+q
+1 0 0 1 40.01575 575.8394 cm
+Q
+q
+1 0 0 1 40.01575 563.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Python 2.5-2.7. Versions 3.0+ not supported) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 557.8394 cm
+Q
+q
+1 0 0 1 40.01575 545.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Django Current release) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 539.8394 cm
+Q
+q
+1 0 0 1 40.01575 470.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 54 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL (Database options.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 44 Tm  T* ET
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 48 cm
+Q
+q
+1 0 0 1 20 36 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Sqlite. Included in the above versions of Python. Default) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 30 cm
+Q
+q
+1 0 0 1 20 18 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Postgres. Some assembly required.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 12 cm
+Q
+q
+1 0 0 1 20 0 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (MySQL. Some assembly required) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 0 cm
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 470.8394 cm
+Q
+q
+1 0 0 1 40.01575 438.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
 BT 1 0 0 1 0 6.748 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (General Notes) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 545.8394 cm
+1 0 0 1 40.01575 396.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .500205 Tw (As mentioned above the project is using Django as its Web framework. Before starting the set up a general idea of) Tj T* 0 Tw .046004 Tw (the layout is in order. In the Django world the root of the site is known as the project. Within the project there are one) Tj T* 0 Tw (or more applications. This repository represents the F3 project and its associated application f3_final.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 503.8394 cm
+1 0 0 1 40.01575 354.0394 cm
 q
 0 0 0 rg
 BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .720241 Tw (Django uses a database\(s\) to store information. For this project the default database is Sqlite. The primary reason) Tj T* 0 Tw .384004 Tw (being that it is included with Python 2.5+. The other reasons are that it is a single file and has simple administrative) Tj T* 0 Tw (needs. MySQL and Postgres have also been used. See the F3 section below for more information.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 40.01575 471.0394 cm
+1 0 0 1 40.01575 321.2394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2145,13 +2995,13 @@ BT 1 0 0 1 0 6.748 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Django) Tj T*
 Q
 Q
 q
-1 0 0 1 40.01575 459.0394 cm
+1 0 0 1 40.01575 309.2394 cm
 Q
 q
-1 0 0 1 40.01575 459.0394 cm
+1 0 0 1 40.01575 309.2394 cm
 Q
 q
-1 0 0 1 40.01575 435.0394 cm
+1 0 0 1 40.01575 285.2394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2171,10 +3021,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 429.0394 cm
+1 0 0 1 40.01575 279.2394 cm
 Q
 q
-1 0 0 1 40.01575 338.2394 cm
+1 0 0 1 40.01575 188.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2214,10 +3064,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 332.2394 cm
+1 0 0 1 40.01575 182.4394 cm
 Q
 q
-1 0 0 1 40.01575 320.2394 cm
+1 0 0 1 40.01575 170.4394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2238,10 +3088,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 320.2394 cm
+1 0 0 1 40.01575 170.4394 cm
 Q
 q
-1 0 0 1 40.01575 287.4394 cm
+1 0 0 1 40.01575 137.6394 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -2253,13 +3103,13 @@ BT 1 0 0 1 0 6.748 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (F3 project) T
 Q
 Q
 q
-1 0 0 1 40.01575 275.4394 cm
+1 0 0 1 40.01575 125.6394 cm
 Q
 q
-1 0 0 1 40.01575 275.4394 cm
+1 0 0 1 40.01575 125.6394 cm
 Q
 q
-1 0 0 1 40.01575 263.4394 cm
+1 0 0 1 40.01575 113.6394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2280,10 +3130,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 257.4394 cm
+1 0 0 1 40.01575 107.6394 cm
 Q
 q
-1 0 0 1 40.01575 221.4394 cm
+1 0 0 1 40.01575 71.63937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -2304,124 +3154,7 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 215.4394 cm
-Q
-q
-1 0 0 1 40.01575 179.4394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 21 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .334631 Tw (If you downloaded one of the compressed file formats, uncompress the archive into a suitable location. NOTE:) Tj T* 0 Tw 1.9173 Tw (The download process creates a unique directory name for the project. Now is good time to rename that) Tj T* 0 Tw (directory to F3 or f3.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 179.4394 cm
-Q
-q
-1 0 0 1 40.01575 139.4394 cm
-q
-.8 .8 .8 RG
-.3 w
-.94902 .94902 .94902 rg
-n -10 0 525.2441 30 re B*
-Q
-q
-BT 1 0 0 1 0 9.64 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Indices and tables) Tj T* ET
-Q
-Q
-q
-1 0 0 1 40.01575 127.4394 cm
-Q
-q
-1 0 0 1 40.01575 127.4394 cm
-Q
-q
-1 0 0 1 40.01575 115.4394 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F6 10 Tf 12 TL (genindex) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 109.4394 cm
-Q
-q
-1 0 0 1 40.01575 97.43937 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F6 10 Tf 12 TL (modindex) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 91.43937 cm
-Q
-q
-1 0 0 1 40.01575 79.43937 cm
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 6 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 -3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F6 10 Tf 12 TL (search) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 40.01575 79.43937 cm
-Q
-q
-1 0 0 1 40.01575 79.43937 cm
+1 0 0 1 40.01575 65.63937 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
@@ -2441,102 +3174,513 @@ Q
 endstream
 
 endobj
-48 0 obj
+54 0 obj
+<< /Length 10197 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 751.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 28.82 Tm .300256 Tw 12 TL /F1 10 Tf 0 0 0 rg (If you downloaded one of the compressed file formats, uncompress the archive into a suitable location. ) Tj /F2 10 Tf (NOTE:) Tj T* 0 Tw 1.9173 Tw /F1 10 Tf (The download process creates a unique directory name for the project. Now is good time to rename that) Tj T* 0 Tw (directory to F3) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 745.0394 cm
+Q
+q
+1 0 0 1 40.01575 496.2394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 233.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 197.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 40.82 Tm /F1 10 Tf 12 TL .037913 Tw (If you plan on using Sqlite as the database skip to the next step. If not, there is some housekeeping to be done.) Tj T* 0 Tw 2.985606 Tw (Using the appropriate database tool create a database; suggested name-f3. Also create a user with a) Tj T* 0 Tw 1.588476 Tw (password that has sufficient rights to administer the database. You will then need to make changes to the) Tj T* 0 Tw (settings.py file in the project root\(F3/\):) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 47 cm
+q
+q
+q
+1 0 0 1 4.4 .4 cm
+q
+.666667 .8 .6 RG
+.3 w
+.933333 1 .8 rg
+n -4 0 491.4441 150 re B*
+Q
+q
+BT 1 0 0 1 0 137.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (DATABASE_ENGINE) Tj ( ) Tj .188235 .188235 .188235 rg (=) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('sqlite3') Tj 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (# 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.) Tj /F4 10 Tf 0 0 0 rg  T* (DATABASE_NAME) Tj ( ) Tj .188235 .188235 .188235 rg (=) Tj 0 0 0 rg ( ) Tj (os) Tj .188235 .188235 .188235 rg (.) Tj 0 0 0 rg (path) Tj .188235 .188235 .188235 rg (.) Tj 0 0 0 rg (join) Tj (\() Tj (basedir) Tj (,) Tj ( ) Tj .729412 .129412 .129412 rg ('f3.sqlite') Tj 0 0 0 rg (\)) Tj  T* /F6 10 Tf .501961 .501961 .501961 rg (# Or path to database file if using sqlite3.) Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (#DATABASE_USER = '') Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (# Not used with sqlite3.) Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (#DATABASE_PASSWORD = '') Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (# Not used with sqlite3.) Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (#DATABASE_HOST = '') Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (# Set to empty string for localhost. Not used with sqlite3.) Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (#DATABASE_PORT = '') Tj /F4 10 Tf 0 0 0 rg  T* /F6 10 Tf .501961 .501961 .501961 rg (# Set to empty string for default. Not used with sqlite3.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL 1.099006 Tw (Note:The settings comments have been put under the SETTING for formatting purposes. In the file they will) Tj T* 0 Tw 1.465341 Tw (follow the SETTING. Set DATABASE_ENGINE to the appropriate one and change the DATABASE_NAME.) Tj T* 0 Tw (Uncomment the other SETTING lines and fill in the information as needed.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 490.2394 cm
+Q
+q
+1 0 0 1 40.01575 409.4394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 65.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 65.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Change directories to the root of the project F3/. From there run:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 47 cm
+q
+q
+q
+1 0 0 1 4.4 .4 cm
+q
+.666667 .8 .6 RG
+.3 w
+.933333 1 .8 rg
+n -4 0 491.4441 18 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (manage) Tj .188235 .188235 .188235 rg (.) Tj 0 0 0 rg (py) Tj ( ) Tj (syncdb) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 28.82 Tm /F1 10 Tf 12 TL .379205 Tw (This will populate the database with the application tables. Also when run the first time, it will ask to create the) Tj T* 0 Tw .889116 Tw (the Django authorization system. You want to say 'yes' to this. The script will prompt you for information and) Tj T* 0 Tw (then create the authorization tables.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 403.4394 cm
+Q
+q
+1 0 0 1 40.01575 327.8394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 60.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 60.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Load data for project. To get the initial data into the database do:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 41.8 cm
+q
+q
+q
+1 0 0 1 4.4 .4 cm
+q
+.666667 .8 .6 RG
+.3 w
+.933333 1 .8 rg
+n -4 0 491.4441 18 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (manage) Tj .188235 .188235 .188235 rg (.) Tj 0 0 0 rg (py) Tj ( ) Tj (loaddata) Tj ( ) Tj (f3_final) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 23 15.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (At successful completion you should see something like:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+q
+1 0 0 1 4.4 .4 cm
+q
+.666667 .8 .6 RG
+.3 w
+.933333 1 .8 rg
+n -4 0 491.4441 18 re B*
+Q
+q
+BT 1 0 0 1 0 5.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (Installed) Tj ( ) Tj (XXX) Tj ( ) Tj (object) Tj (\() Tj (s) Tj (\)) Tj ( ) Tj (from) Tj ( ) Tj (Y) Tj ( ) Tj (fixture) Tj (\() Tj (s) Tj (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 321.8394 cm
+Q
+q
+1 0 0 1 40.01575 207.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 99.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 87.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .018705 Tw (Run built in Web server. Django has its own Web server that is sufficient for development work. It should not be) Tj T* 0 Tw (used in production. To start the server, from the project root do:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+q
+q
+1 0 0 1 4.4 .4 cm
+q
+.666667 .8 .6 RG
+.3 w
+.933333 1 .8 rg
+n -4 0 491.4441 90 re B*
+Q
+q
+BT 1 0 0 1 0 77.71 Tm 12 TL /F4 10 Tf 0 0 0 rg (python) Tj ( ) Tj (manage) Tj .188235 .188235 .188235 rg (.) Tj 0 0 0 rg (py) Tj ( ) Tj (runserver) Tj  T* (Validating) Tj ( ) Tj (models) Tj .188235 .188235 .188235 rg (...) Tj 0 0 0 rg  T*  T* /F5 10 Tf 0 0 .815686 rg (0) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (errors) Tj ( ) Tj (found) Tj  T* (Django) Tj ( ) Tj (version) Tj ( ) Tj /F5 10 Tf 0 0 .815686 rg (1) Tj /F4 10 Tf .188235 .188235 .188235 rg (.) Tj /F5 10 Tf 0 0 .815686 rg (3) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (rc) Tj ( ) Tj /F5 10 Tf 0 0 .815686 rg (1) Tj /F4 10 Tf 0 0 0 rg ( ) Tj (SVN) Tj .188235 .188235 .188235 rg (-) Tj /F5 10 Tf 0 0 .815686 rg (15770) Tj /F4 10 Tf 0 0 0 rg (,) Tj ( ) Tj (using) Tj ( ) Tj (settings) Tj ( ) Tj .729412 .129412 .129412 rg ('f3.settings') Tj 0 0 0 rg  T* (Development) Tj ( ) Tj (server) Tj ( ) Tj (is) Tj ( ) Tj (running) Tj ( ) Tj (at) Tj ( ) Tj (http:) Tj (//) Tj /F5 10 Tf 0 0 .815686 rg (127) Tj /F4 10 Tf .188235 .188235 .188235 rg (.) Tj /F5 10 Tf 0 0 .815686 rg (0) Tj /F4 10 Tf .188235 .188235 .188235 rg (.) Tj /F5 10 Tf 0 0 .815686 rg (0) Tj /F4 10 Tf .188235 .188235 .188235 rg (.) Tj /F5 10 Tf 0 0 .815686 rg (1) Tj /F4 10 Tf 0 0 0 rg (:) Tj /F5 10 Tf 0 0 .815686 rg (8000) Tj /F4 10 Tf .188235 .188235 .188235 rg (/) Tj 0 0 0 rg  T* (Quit) Tj ( ) Tj (the) Tj ( ) Tj (server) Tj ( ) Tj (with) Tj ( ) Tj (CONTROL) Tj .188235 .188235 .188235 rg (-) Tj 0 0 0 rg (C) Tj .188235 .188235 .188235 rg (.) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 201.0394 cm
+Q
+q
+1 0 0 1 40.01575 177.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 16.82 Tm 1.189631 Tw 12 TL /F1 10 Tf 0 0 0 rg (Verify site is working. In Web browser enter ) Tj 0 0 .501961 rg (http://127.0.0.1:8000/f3/ ) Tj 0 0 0 rg (You should see "this is the Hello world) Tj T* 0 Tw (from f3") Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 171.0394 cm
+Q
+q
+1 0 0 1 40.01575 159.0394 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Congratulations you are up and running.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 159.0394 cm
+Q
+q
+1 0 0 1 40.01575 119.0394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 30 re B*
+Q
+q
+BT 1 0 0 1 0 9.64 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Indices and tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 107.0394 cm
+Q
+q
+1 0 0 1 40.01575 107.0394 cm
+Q
+q
+1 0 0 1 40.01575 95.03937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F7 10 Tf 12 TL (genindex) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 89.03937 cm
+Q
+q
+1 0 0 1 40.01575 77.03937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F7 10 Tf 12 TL (modindex) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 71.03937 cm
+Q
+q
+1 0 0 1 40.01575 59.03937 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F7 10 Tf 12 TL (search) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 40.01575 59.03937 cm
+Q
+q
+1 0 0 1 40.01575 59.03937 cm
+Q
+q
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Indices and tables) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+55 0 obj
 << /Nums [ 0
- 49 0 R
+ 56 0 R
  1
- 50 0 R
+ 57 0 R
  2
- 51 0 R
+ 58 0 R
  3
- 52 0 R
+ 59 0 R
  4
- 53 0 R ] >>
+ 60 0 R
+ 5
+ 61 0 R ] >>
 endobj
-49 0 obj
+56 0 obj
 << /S /D
  /St 1 >>
 endobj
-50 0 obj
+57 0 obj
 << /S /D
  /St 2 >>
 endobj
-51 0 obj
+58 0 obj
 << /S /r
  /St 1 >>
 endobj
-52 0 obj
+59 0 obj
 << /S /r
  /St 2 >>
 endobj
-53 0 obj
+60 0 obj
 << /S /D
  /St 1 >>
+endobj
+61 0 obj
+<< /S /D
+ /St 2 >>
 endobj
 xref
-0 54
+0 62
 0000000000 65535 f
 0000000075 00000 n
-0000000173 00000 n
-0000000291 00000 n
-0000000414 00000 n
-0000000647 00000 n
-0000000880 00000 n
-0000001079 00000 n
-0000001278 00000 n
-0000001477 00000 n
-0000001676 00000 n
-0000001876 00000 n
-0000002076 00000 n
-0000002276 00000 n
-0000002476 00000 n
-0000002676 00000 n
-0000002876 00000 n
-0000003076 00000 n
-0000003276 00000 n
-0000003476 00000 n
-0000003676 00000 n
-0000004044 00000 n
-0000004278 00000 n
-0000004481 00000 n
-0000004693 00000 n
-0000004982 00000 n
-0000005223 00000 n
-0000005354 00000 n
-0000005583 00000 n
-0000005700 00000 n
-0000005822 00000 n
-0000005949 00000 n
-0000006240 00000 n
-0000006357 00000 n
-0000006540 00000 n
-0000006623 00000 n
-0000006814 00000 n
-0000006953 00000 n
-0000007119 00000 n
-0000007251 00000 n
-0000007391 00000 n
-0000007520 00000 n
-0000007657 00000 n
-0000007759 00000 n
-0000008757 00000 n
-0000008893 00000 n
-0000011104 00000 n
-0000011240 00000 n
-0000020575 00000 n
-0000020673 00000 n
-0000020712 00000 n
-0000020751 00000 n
-0000020790 00000 n
-0000020829 00000 n
+0000000186 00000 n
+0000000304 00000 n
+0000000427 00000 n
+0000000660 00000 n
+0000000893 00000 n
+0000001092 00000 n
+0000001291 00000 n
+0000001490 00000 n
+0000001689 00000 n
+0000001889 00000 n
+0000002089 00000 n
+0000002289 00000 n
+0000002489 00000 n
+0000002689 00000 n
+0000002889 00000 n
+0000003089 00000 n
+0000003289 00000 n
+0000003489 00000 n
+0000003689 00000 n
+0000003889 00000 n
+0000004089 00000 n
+0000004475 00000 n
+0000004709 00000 n
+0000004912 00000 n
+0000005124 00000 n
+0000005413 00000 n
+0000005654 00000 n
+0000005785 00000 n
+0000006014 00000 n
+0000006131 00000 n
+0000006253 00000 n
+0000006544 00000 n
+0000006669 00000 n
+0000006872 00000 n
+0000006999 00000 n
+0000007254 00000 n
+0000007371 00000 n
+0000007554 00000 n
+0000007638 00000 n
+0000007829 00000 n
+0000007968 00000 n
+0000008134 00000 n
+0000008266 00000 n
+0000008413 00000 n
+0000008553 00000 n
+0000008682 00000 n
+0000008819 00000 n
+0000008930 00000 n
+0000009941 00000 n
+0000010077 00000 n
+0000012540 00000 n
+0000012676 00000 n
+0000022567 00000 n
+0000032824 00000 n
+0000032935 00000 n
+0000032974 00000 n
+0000033013 00000 n
+0000033052 00000 n
+0000033091 00000 n
+0000033130 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
 
- /Info 33 0 R
- /Root 32 0 R
- /Size 54 >>
+ /Info 38 0 R
+ /Root 37 0 R
+ /Size 62 >>
 startxref
-20868
+33169
 %%EOF

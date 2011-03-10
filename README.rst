@@ -19,6 +19,16 @@ LinuxFest 2010
 Setup
 ********
 
+Prerequisites
+=============
+
+* Python 2.5-2.7. Versions 3.0+ not supported
+* Django Current release
+* Database options.
+    * Sqlite. Included in the above versions of Python. Default
+    * Postgres. Some assembly required. 
+    * MySQL. Some assembly required
+
 General Notes
 ============= 
 
@@ -63,13 +73,64 @@ F3 project
   file. 
 
 * If you downloaded one of the compressed file formats, uncompress the archive
-  into a suitable location. NOTE: The download process creates a unique
+  into a suitable location. **NOTE:** The download process creates a unique
   directory name for the project. Now is good time to rename that directory to
-  F3 or f3.
+  F3
   
+* If you plan on using Sqlite as the database skip to the next step. If not,
+  there is some housekeeping to be done. Using the appropriate database tool
+  create a database; suggested name-f3. Also create a user with a password that
+  has sufficient rights to administer the database. You will then need to make
+  changes to the settings.py  file in the project root(F3/)::
 
+    DATABASE_ENGINE = 'sqlite3'             
+    # 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
+    DATABASE_NAME = os.path.join(basedir, 'f3.sqlite')      
+    # Or path to database file if using sqlite3.
+    #DATABASE_USER = ''                     
+    # Not used with sqlite3.
+    #DATABASE_PASSWORD = ''                 
+    # Not used with sqlite3.
+    #DATABASE_HOST = ''                     
+    # Set to empty string for localhost. Not used with sqlite3.
+    #DATABASE_PORT = ''                     
+    # Set to empty string for default. Not used with sqlite3.
+  
+  Note:The settings comments have been put under the SETTING for formatting
+  purposes. In the file they will follow the SETTING.
+  Set DATABASE_ENGINE to the appropriate one and change the DATABASE_NAME.
+  Uncomment the other SETTING lines and fill in the information as needed.
+  
+* Change directories to the root of the project F3/. From there run::
     
+    python manage.py syncdb
   
+  This will populate the database with the application tables. Also when run the
+  first time, it will ask to create the the Django authorization system. You 
+  want to say 'yes' to this. The script will prompt you for information and then
+  create the authorization tables.
   
+* Load data for project. To get the initial data into the database do::
+    
+    python manage.py loaddata f3_final
+    
+  At successful completion you should see something like:: 
+  
+    Installed XXX object(s) from Y fixture(s)
 
+* Run built in Web server. Django has its own Web server that is sufficient for
+  development work. It should not be used in production. To start the server, 
+  from the project root do::
+      
+      python manage.py runserver
+      Validating models...
 
+      0 errors found
+      Django version 1.3 rc 1 SVN-15770, using settings 'f3.settings'
+      Development server is running at http://127.0.0.1:8000/
+      Quit the server with CONTROL-C.
+
+* Verify site is working. In Web browser enter http://127.0.0.1:8000/f3/
+  You should see "this is the Hello world from f3"
+  
+* Congratulations you are up and running.
