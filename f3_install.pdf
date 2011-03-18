@@ -3,11 +3,11 @@
 1 0 obj
 << /F1 2 0 R
  /F2 3 0 R
- /F3 28 0 R
- /F4 30 0 R
- /F5 31 0 R
- /F6 33 0 R
- /F7 35 0 R >>
+ /F3 30 0 R
+ /F4 32 0 R
+ /F5 33 0 R
+ /F6 35 0 R
+ /F7 37 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica
@@ -24,12 +24,12 @@ endobj
  /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 49 0 R
+<< /Contents 53 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -41,12 +41,12 @@ endobj
  /Type /Page >>
 endobj
 5 0 obj
-<< /Contents 50 0 R
+<< /Contents 54 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -62,7 +62,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  787.0394
@@ -79,7 +79,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  787.0394
@@ -96,7 +96,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  729.0394
@@ -113,7 +113,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  729.0394
@@ -130,7 +130,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  639.8394
@@ -147,7 +147,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  639.8394
@@ -164,7 +164,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  604.6394
@@ -181,7 +181,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  604.6394
@@ -198,7 +198,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  454.8394
@@ -215,7 +215,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  454.8394
@@ -232,7 +232,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  338.0394
@@ -249,7 +249,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  338.0394
@@ -266,7 +266,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  154.4394
@@ -283,7 +283,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  154.4394
@@ -300,14 +300,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 36 0 R
+ /Dest [ 38 0 R
  /XYZ
  40.01575
  143.0394
  0 ]
- /Rect [ 40.01575
+ /Rect [ 80.01575
  631.6094
- 126.7157
+ 129.4757
  643.6094 ]
  /Subtype /Link
  /Type /Annot >>
@@ -317,7 +317,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 36 0 R
+ /Dest [ 38 0 R
  /XYZ
  40.01575
  143.0394
@@ -330,6 +330,40 @@ endobj
  /Type /Annot >>
 endobj
 22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 40.01575
+ 110.2394
+ 0 ]
+ /Rect [ 40.01575
+ 613.6094
+ 126.7157
+ 625.6094 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 40.01575
+ 110.2394
+ 0 ]
+ /Rect [ 549.6998
+ 613.6094
+ 555.2598
+ 625.6094 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+24 0 obj
 << /Annots [ 6 0 R
  7 0 R
  8 0 R
@@ -345,13 +379,15 @@ endobj
  18 0 R
  19 0 R
  20 0 R
- 21 0 R ]
- /Contents 51 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R ]
+ /Contents 55 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -362,13 +398,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-23 0 obj
-<< /Contents 52 0 R
+25 0 obj
+<< /Contents 56 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -379,7 +415,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-24 0 obj
+26 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://whatcompython.org/) >>
@@ -393,7 +429,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-25 0 obj
+27 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://sustainableconnections.org/) >>
@@ -407,7 +443,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-26 0 obj
+28 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://sustainableconnections.org/foodfarming/guidetoeatinglocal/fff-2010/wfff-listing-details/at_download/file) >>
@@ -421,7 +457,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-27 0 obj
+29 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://semanticbible.com/other/talks/2010/linuxfestnw/main.html) >>
@@ -435,14 +471,14 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-28 0 obj
+30 0 obj
 << /BaseFont /Helvetica-BoldOblique
  /Encoding /WinAnsiEncoding
  /Name /F3
  /Subtype /Type1
  /Type /Font >>
 endobj
-29 0 obj
+31 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://docs.djangoproject.com/en/1.2/intro/install/) >>
@@ -456,32 +492,32 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-30 0 obj
+32 0 obj
 << /BaseFont /Courier
  /Encoding /WinAnsiEncoding
  /Name /F4
  /Subtype /Type1
  /Type /Font >>
 endobj
-31 0 obj
+33 0 obj
 << /BaseFont /Courier-Bold
  /Encoding /WinAnsiEncoding
  /Name /F5
  /Subtype /Type1
  /Type /Font >>
 endobj
-32 0 obj
-<< /Annots [ 24 0 R
- 25 0 R
- 26 0 R
+34 0 obj
+<< /Annots [ 26 0 R
  27 0 R
- 29 0 R ]
- /Contents 53 0 R
+ 28 0 R
+ 29 0 R
+ 31 0 R ]
+ /Contents 57 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -492,14 +528,14 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-33 0 obj
+35 0 obj
 << /BaseFont /Courier-Oblique
  /Encoding /WinAnsiEncoding
  /Name /F6
  /Subtype /Type1
  /Type /Font >>
 endobj
-34 0 obj
+36 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://127.0.0.1:8000/f3/) >>
@@ -513,21 +549,21 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-35 0 obj
+37 0 obj
 << /BaseFont /Helvetica-Oblique
  /Encoding /WinAnsiEncoding
  /Name /F7
  /Subtype /Type1
  /Type /Font >>
 endobj
-36 0 obj
-<< /Annots [ 34 0 R ]
- /Contents 54 0 R
+38 0 obj
+<< /Annots [ 36 0 R ]
+ /Contents 58 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -538,14 +574,31 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-37 0 obj
-<< /Outlines 39 0 R
- /PageLabels 55 0 R
+39 0 obj
+<< /Contents 59 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+40 0 obj
+<< /Outlines 42 0 R
+ /PageLabels 60 0 R
  /PageMode /UseNone
- /Pages 48 0 R
+ /Pages 52 0 R
  /Type /Catalog >>
 endobj
-38 0 obj
+41 0 obj
 << /Author ()
  /CreationDate (D:20000101000000+00'00')
  /Keywords ()
@@ -553,111 +606,123 @@ endobj
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-39 0 obj
-<< /Count 10
- /First 40 0 R
- /Last 47 0 R
+42 0 obj
+<< /Count 11
+ /First 43 0 R
+ /Last 51 0 R
  /Type /Outlines >>
 endobj
-40 0 obj
-<< /Count 6
- /Dest [ 32 0 R
+43 0 obj
+<< /Count 7
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 41 0 R
- /Last 42 0 R
- /Next 47 0 R
- /Parent 39 0 R
+ /First 44 0 R
+ /Last 45 0 R
+ /Next 51 0 R
+ /Parent 42 0 R
  /Title (Welcome to F3's documentation!) >>
 endobj
-41 0 obj
-<< /Dest [ 32 0 R
+44 0 obj
+<< /Dest [ 34 0 R
  /XYZ
  40.01575
  729.0394
  0 ]
- /Next 42 0 R
- /Parent 40 0 R
+ /Next 45 0 R
+ /Parent 43 0 R
  /Title (Project Introduction) >>
 endobj
-42 0 obj
-<< /Count 4
- /Dest [ 32 0 R
+45 0 obj
+<< /Count 5
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  639.8394
  0 ]
- /First 43 0 R
- /Last 46 0 R
- /Parent 40 0 R
- /Prev 41 0 R
+ /First 46 0 R
+ /Last 50 0 R
+ /Parent 43 0 R
+ /Prev 44 0 R
  /Title (Setup) >>
 endobj
-43 0 obj
-<< /Dest [ 32 0 R
+46 0 obj
+<< /Dest [ 34 0 R
  /XYZ
  40.01575
  604.6394
  0 ]
- /Next 44 0 R
- /Parent 42 0 R
+ /Next 47 0 R
+ /Parent 45 0 R
  /Title (Prerequisites) >>
 endobj
-44 0 obj
-<< /Dest [ 32 0 R
+47 0 obj
+<< /Dest [ 34 0 R
  /XYZ
  40.01575
  454.8394
  0 ]
- /Next 45 0 R
- /Parent 42 0 R
- /Prev 43 0 R
+ /Next 48 0 R
+ /Parent 45 0 R
+ /Prev 46 0 R
  /Title (General Notes) >>
 endobj
-45 0 obj
-<< /Dest [ 32 0 R
+48 0 obj
+<< /Dest [ 34 0 R
  /XYZ
  40.01575
  338.0394
  0 ]
- /Next 46 0 R
- /Parent 42 0 R
- /Prev 44 0 R
+ /Next 49 0 R
+ /Parent 45 0 R
+ /Prev 47 0 R
  /Title (Django) >>
 endobj
-46 0 obj
-<< /Dest [ 32 0 R
+49 0 obj
+<< /Dest [ 34 0 R
  /XYZ
  40.01575
  154.4394
  0 ]
- /Parent 42 0 R
- /Prev 45 0 R
+ /Next 50 0 R
+ /Parent 45 0 R
+ /Prev 48 0 R
  /Title (F3 project) >>
 endobj
-47 0 obj
-<< /Dest [ 36 0 R
+50 0 obj
+<< /Dest [ 38 0 R
  /XYZ
  40.01575
  143.0394
  0 ]
- /Parent 39 0 R
- /Prev 40 0 R
+ /Parent 45 0 R
+ /Prev 49 0 R
+ /Title (Future Use) >>
+endobj
+51 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 40.01575
+ 110.2394
+ 0 ]
+ /Parent 42 0 R
+ /Prev 43 0 R
  /Title (Indices and tables) >>
 endobj
-48 0 obj
-<< /Count 6
+52 0 obj
+<< /Count 7
  /Kids [ 4 0 R
  5 0 R
- 22 0 R
- 23 0 R
- 32 0 R
- 36 0 R ]
+ 24 0 R
+ 25 0 R
+ 34 0 R
+ 38 0 R
+ 39 0 R ]
  /Type /Pages >>
 endobj
-49 0 obj
+53 0 obj
 << /Length 953 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -717,7 +782,7 @@ Q
 endstream
 
 endobj
-50 0 obj
+54 0 obj
 << /Length 79 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -728,8 +793,8 @@ Q
 endstream
 
 endobj
-51 0 obj
-<< /Length 2404 >>
+55 0 obj
+<< /Length 2653 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -745,17 +810,17 @@ BT 1 0 0 1 0 9.64 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Contents) Tj T* 
 Q
 Q
 q
-1 0 0 1 40.01575 625.0394 cm
+1 0 0 1 40.01575 607.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 0 129 cm
+1 0 0 1 0 147 cm
 q
 BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Welcome to F3's documentation!) Tj T* ET
 Q
 Q
 q
-1 0 0 1 443.2441 129 cm
+1 0 0 1 443.2441 147 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -763,9 +828,23 @@ BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
 Q
 Q
 q
-1 0 0 1 0 111 cm
+1 0 0 1 0 129 cm
 q
 BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Project Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Setup) Tj T* ET
 Q
 Q
 q
@@ -779,7 +858,7 @@ Q
 q
 1 0 0 1 0 93 cm
 q
-BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Setup) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Prerequisites) Tj T* ET
 Q
 Q
 q
@@ -793,7 +872,7 @@ Q
 q
 1 0 0 1 0 75 cm
 q
-BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Prerequisites) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (General Notes) Tj T* ET
 Q
 Q
 q
@@ -807,7 +886,7 @@ Q
 q
 1 0 0 1 0 57 cm
 q
-BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (General Notes) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Django) Tj T* ET
 Q
 Q
 q
@@ -821,7 +900,7 @@ Q
 q
 1 0 0 1 0 39 cm
 q
-BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Django) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (F3 project) Tj T* ET
 Q
 Q
 q
@@ -835,7 +914,7 @@ Q
 q
 1 0 0 1 0 21 cm
 q
-BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (F3 project) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Future Use) Tj T* ET
 Q
 Q
 q
@@ -843,7 +922,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -864,16 +943,16 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 625.0394 cm
+1 0 0 1 40.01575 607.0394 cm
 Q
 q
-1 0 0 1 40.01575 625.0394 cm
+1 0 0 1 40.01575 607.0394 cm
 Q
  
 endstream
 
 endobj
-52 0 obj
+56 0 obj
 << /Length 79 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -884,7 +963,7 @@ Q
 endstream
 
 endobj
-53 0 obj
+57 0 obj
 << /Length 9832 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -1331,8 +1410,8 @@ Q
 endstream
 
 endobj
-54 0 obj
-<< /Length 10197 >>
+58 0 obj
+<< /Length 9719 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -1618,7 +1697,19 @@ q
 1 0 0 1 40.01575 159.0394 cm
 Q
 q
-1 0 0 1 40.01575 119.0394 cm
+1 0 0 1 40.01575 126.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 6.748 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Future Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 86.23937 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -1630,13 +1721,13 @@ BT 1 0 0 1 0 9.64 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Indices and tabl
 Q
 Q
 q
-1 0 0 1 40.01575 107.0394 cm
+1 0 0 1 40.01575 74.23937 cm
 Q
 q
-1 0 0 1 40.01575 107.0394 cm
+1 0 0 1 40.01575 74.23937 cm
 Q
 q
-1 0 0 1 40.01575 95.03937 cm
+1 0 0 1 40.01575 62.23937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1657,10 +1748,32 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 89.03937 cm
+1 0 0 1 40.01575 56.23937 cm
 Q
 q
-1 0 0 1 40.01575 77.03937 cm
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Future Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+59 0 obj
+<< /Length 938 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1681,10 +1794,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 71.03937 cm
+1 0 0 1 40.01575 769.0394 cm
 Q
 q
-1 0 0 1 40.01575 59.03937 cm
+1 0 0 1 40.01575 757.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -1705,69 +1818,75 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 59.03937 cm
+1 0 0 1 40.01575 757.0394 cm
 Q
 q
-1 0 0 1 40.01575 59.03937 cm
+1 0 0 1 40.01575 757.0394 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Indices and tables) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Future Use) Tj T* ET
 Q
 Q
 q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (3) Tj T* ET
 Q
 Q
  
 endstream
 
 endobj
-55 0 obj
-<< /Nums [ 0
- 56 0 R
- 1
- 57 0 R
- 2
- 58 0 R
- 3
- 59 0 R
- 4
- 60 0 R
- 5
- 61 0 R ] >>
-endobj
-56 0 obj
-<< /S /D
- /St 1 >>
-endobj
-57 0 obj
-<< /S /D
- /St 2 >>
-endobj
-58 0 obj
-<< /S /r
- /St 1 >>
-endobj
-59 0 obj
-<< /S /r
- /St 2 >>
-endobj
 60 0 obj
-<< /S /D
- /St 1 >>
+<< /Nums [ 0
+ 61 0 R
+ 1
+ 62 0 R
+ 2
+ 63 0 R
+ 3
+ 64 0 R
+ 4
+ 65 0 R
+ 5
+ 66 0 R
+ 6
+ 67 0 R ] >>
 endobj
 61 0 obj
 << /S /D
+ /St 1 >>
+endobj
+62 0 obj
+<< /S /D
  /St 2 >>
 endobj
+63 0 obj
+<< /S /r
+ /St 1 >>
+endobj
+64 0 obj
+<< /S /r
+ /St 2 >>
+endobj
+65 0 obj
+<< /S /D
+ /St 1 >>
+endobj
+66 0 obj
+<< /S /D
+ /St 2 >>
+endobj
+67 0 obj
+<< /S /D
+ /St 3 >>
+endobj
 xref
-0 62
+0 68
 0000000000 65535 f
 0000000075 00000 n
 0000000186 00000 n
@@ -1791,66 +1910,72 @@ xref
 0000003689 00000 n
 0000003889 00000 n
 0000004089 00000 n
-0000004475 00000 n
-0000004709 00000 n
-0000004912 00000 n
-0000005124 00000 n
-0000005413 00000 n
-0000005654 00000 n
-0000005785 00000 n
-0000006014 00000 n
-0000006131 00000 n
-0000006253 00000 n
-0000006544 00000 n
-0000006669 00000 n
-0000006872 00000 n
-0000006999 00000 n
-0000007254 00000 n
-0000007371 00000 n
-0000007554 00000 n
-0000007638 00000 n
-0000007829 00000 n
-0000007968 00000 n
-0000008134 00000 n
-0000008266 00000 n
-0000008413 00000 n
-0000008553 00000 n
-0000008682 00000 n
-0000008819 00000 n
-0000008930 00000 n
-0000009941 00000 n
-0000010077 00000 n
-0000012540 00000 n
-0000012676 00000 n
-0000022567 00000 n
-0000032824 00000 n
-0000032935 00000 n
-0000032974 00000 n
-0000033013 00000 n
-0000033052 00000 n
-0000033091 00000 n
-0000033130 00000 n
+0000004289 00000 n
+0000004489 00000 n
+0000004893 00000 n
+0000005127 00000 n
+0000005330 00000 n
+0000005542 00000 n
+0000005831 00000 n
+0000006072 00000 n
+0000006203 00000 n
+0000006432 00000 n
+0000006549 00000 n
+0000006671 00000 n
+0000006962 00000 n
+0000007087 00000 n
+0000007290 00000 n
+0000007417 00000 n
+0000007672 00000 n
+0000007906 00000 n
+0000008023 00000 n
+0000008206 00000 n
+0000008290 00000 n
+0000008481 00000 n
+0000008620 00000 n
+0000008786 00000 n
+0000008918 00000 n
+0000009065 00000 n
+0000009205 00000 n
+0000009349 00000 n
+0000009478 00000 n
+0000009615 00000 n
+0000009735 00000 n
+0000010746 00000 n
+0000010882 00000 n
+0000013594 00000 n
+0000013730 00000 n
+0000023621 00000 n
+0000033399 00000 n
+0000034395 00000 n
+0000034519 00000 n
+0000034558 00000 n
+0000034597 00000 n
+0000034636 00000 n
+0000034675 00000 n
+0000034714 00000 n
+0000034753 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
 
- /Info 38 0 R
- /Root 37 0 R
- /Size 62 >>
+ /Info 41 0 R
+ /Root 40 0 R
+ /Size 68 >>
 startxref
-33169
+34792
 %%EOF
 %PDF-1.3
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
 1 0 obj
 << /F1 2 0 R
  /F2 3 0 R
- /F3 28 0 R
- /F4 30 0 R
- /F5 31 0 R
- /F6 33 0 R
- /F7 35 0 R >>
+ /F3 30 0 R
+ /F4 32 0 R
+ /F5 33 0 R
+ /F6 35 0 R
+ /F7 37 0 R >>
 endobj
 2 0 obj
 << /BaseFont /Helvetica
@@ -1867,12 +1992,12 @@ endobj
  /Type /Font >>
 endobj
 4 0 obj
-<< /Contents 49 0 R
+<< /Contents 53 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1884,12 +2009,12 @@ endobj
  /Type /Page >>
 endobj
 5 0 obj
-<< /Contents 50 0 R
+<< /Contents 54 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -1905,7 +2030,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  787.0394
@@ -1922,7 +2047,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  787.0394
@@ -1939,7 +2064,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  729.0394
@@ -1956,7 +2081,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  729.0394
@@ -1973,7 +2098,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  639.8394
@@ -1990,7 +2115,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  639.8394
@@ -2007,7 +2132,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  604.6394
@@ -2024,7 +2149,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  604.6394
@@ -2041,7 +2166,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  454.8394
@@ -2058,7 +2183,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  454.8394
@@ -2075,7 +2200,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  338.0394
@@ -2092,7 +2217,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  338.0394
@@ -2109,7 +2234,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  154.4394
@@ -2126,7 +2251,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 32 0 R
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  154.4394
@@ -2143,14 +2268,14 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 36 0 R
+ /Dest [ 38 0 R
  /XYZ
  40.01575
  143.0394
  0 ]
- /Rect [ 40.01575
+ /Rect [ 80.01575
  631.6094
- 126.7157
+ 129.4757
  643.6094 ]
  /Subtype /Link
  /Type /Annot >>
@@ -2160,7 +2285,7 @@ endobj
  0
  0 ]
  /Contents ()
- /Dest [ 36 0 R
+ /Dest [ 38 0 R
  /XYZ
  40.01575
  143.0394
@@ -2173,6 +2298,40 @@ endobj
  /Type /Annot >>
 endobj
 22 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 40.01575
+ 110.2394
+ 0 ]
+ /Rect [ 40.01575
+ 613.6094
+ 126.7157
+ 625.6094 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+23 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 38 0 R
+ /XYZ
+ 40.01575
+ 110.2394
+ 0 ]
+ /Rect [ 549.6998
+ 613.6094
+ 555.2598
+ 625.6094 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+24 0 obj
 << /Annots [ 6 0 R
  7 0 R
  8 0 R
@@ -2188,13 +2347,15 @@ endobj
  18 0 R
  19 0 R
  20 0 R
- 21 0 R ]
- /Contents 51 0 R
+ 21 0 R
+ 22 0 R
+ 23 0 R ]
+ /Contents 55 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2205,13 +2366,13 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-23 0 obj
-<< /Contents 52 0 R
+25 0 obj
+<< /Contents 56 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2222,7 +2383,7 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-24 0 obj
+26 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://whatcompython.org/) >>
@@ -2236,7 +2397,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-25 0 obj
+27 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://sustainableconnections.org/) >>
@@ -2250,7 +2411,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-26 0 obj
+28 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://sustainableconnections.org/foodfarming/guidetoeatinglocal/fff-2010/wfff-listing-details/at_download/file) >>
@@ -2264,7 +2425,7 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-27 0 obj
+29 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://semanticbible.com/other/talks/2010/linuxfestnw/main.html) >>
@@ -2278,14 +2439,14 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-28 0 obj
+30 0 obj
 << /BaseFont /Helvetica-BoldOblique
  /Encoding /WinAnsiEncoding
  /Name /F3
  /Subtype /Type1
  /Type /Font >>
 endobj
-29 0 obj
+31 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://docs.djangoproject.com/en/1.2/intro/install/) >>
@@ -2299,32 +2460,32 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-30 0 obj
+32 0 obj
 << /BaseFont /Courier
  /Encoding /WinAnsiEncoding
  /Name /F4
  /Subtype /Type1
  /Type /Font >>
 endobj
-31 0 obj
+33 0 obj
 << /BaseFont /Courier-Bold
  /Encoding /WinAnsiEncoding
  /Name /F5
  /Subtype /Type1
  /Type /Font >>
 endobj
-32 0 obj
-<< /Annots [ 24 0 R
- 25 0 R
- 26 0 R
+34 0 obj
+<< /Annots [ 26 0 R
  27 0 R
- 29 0 R ]
- /Contents 53 0 R
+ 28 0 R
+ 29 0 R
+ 31 0 R ]
+ /Contents 57 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2335,14 +2496,14 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-33 0 obj
+35 0 obj
 << /BaseFont /Courier-Oblique
  /Encoding /WinAnsiEncoding
  /Name /F6
  /Subtype /Type1
  /Type /Font >>
 endobj
-34 0 obj
+36 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://127.0.0.1:8000/f3/) >>
@@ -2356,21 +2517,21 @@ endobj
  /Subtype /Link
  /Type /Annot >>
 endobj
-35 0 obj
+37 0 obj
 << /BaseFont /Helvetica-Oblique
  /Encoding /WinAnsiEncoding
  /Name /F7
  /Subtype /Type1
  /Type /Font >>
 endobj
-36 0 obj
-<< /Annots [ 34 0 R ]
- /Contents 54 0 R
+38 0 obj
+<< /Annots [ 36 0 R ]
+ /Contents 58 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 48 0 R
+ /Parent 52 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -2381,14 +2542,31 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-37 0 obj
-<< /Outlines 39 0 R
- /PageLabels 55 0 R
+39 0 obj
+<< /Contents 59 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 52 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+40 0 obj
+<< /Outlines 42 0 R
+ /PageLabels 60 0 R
  /PageMode /UseNone
- /Pages 48 0 R
+ /Pages 52 0 R
  /Type /Catalog >>
 endobj
-38 0 obj
+41 0 obj
 << /Author ()
  /CreationDate (D:20000101000000+00'00')
  /Keywords ()
@@ -2396,111 +2574,123 @@ endobj
  /Subject (\(unspecified\))
  /Title () >>
 endobj
-39 0 obj
-<< /Count 10
- /First 40 0 R
- /Last 47 0 R
+42 0 obj
+<< /Count 11
+ /First 43 0 R
+ /Last 51 0 R
  /Type /Outlines >>
 endobj
-40 0 obj
-<< /Count 6
- /Dest [ 32 0 R
+43 0 obj
+<< /Count 7
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  787.0394
  0 ]
- /First 41 0 R
- /Last 42 0 R
- /Next 47 0 R
- /Parent 39 0 R
+ /First 44 0 R
+ /Last 45 0 R
+ /Next 51 0 R
+ /Parent 42 0 R
  /Title (Welcome to F3's documentation!) >>
 endobj
-41 0 obj
-<< /Dest [ 32 0 R
+44 0 obj
+<< /Dest [ 34 0 R
  /XYZ
  40.01575
  729.0394
  0 ]
- /Next 42 0 R
- /Parent 40 0 R
+ /Next 45 0 R
+ /Parent 43 0 R
  /Title (Project Introduction) >>
 endobj
-42 0 obj
-<< /Count 4
- /Dest [ 32 0 R
+45 0 obj
+<< /Count 5
+ /Dest [ 34 0 R
  /XYZ
  40.01575
  639.8394
  0 ]
- /First 43 0 R
- /Last 46 0 R
- /Parent 40 0 R
- /Prev 41 0 R
+ /First 46 0 R
+ /Last 50 0 R
+ /Parent 43 0 R
+ /Prev 44 0 R
  /Title (Setup) >>
 endobj
-43 0 obj
-<< /Dest [ 32 0 R
+46 0 obj
+<< /Dest [ 34 0 R
  /XYZ
  40.01575
  604.6394
  0 ]
- /Next 44 0 R
- /Parent 42 0 R
+ /Next 47 0 R
+ /Parent 45 0 R
  /Title (Prerequisites) >>
 endobj
-44 0 obj
-<< /Dest [ 32 0 R
+47 0 obj
+<< /Dest [ 34 0 R
  /XYZ
  40.01575
  454.8394
  0 ]
- /Next 45 0 R
- /Parent 42 0 R
- /Prev 43 0 R
+ /Next 48 0 R
+ /Parent 45 0 R
+ /Prev 46 0 R
  /Title (General Notes) >>
 endobj
-45 0 obj
-<< /Dest [ 32 0 R
+48 0 obj
+<< /Dest [ 34 0 R
  /XYZ
  40.01575
  338.0394
  0 ]
- /Next 46 0 R
- /Parent 42 0 R
- /Prev 44 0 R
+ /Next 49 0 R
+ /Parent 45 0 R
+ /Prev 47 0 R
  /Title (Django) >>
 endobj
-46 0 obj
-<< /Dest [ 32 0 R
+49 0 obj
+<< /Dest [ 34 0 R
  /XYZ
  40.01575
  154.4394
  0 ]
- /Parent 42 0 R
- /Prev 45 0 R
+ /Next 50 0 R
+ /Parent 45 0 R
+ /Prev 48 0 R
  /Title (F3 project) >>
 endobj
-47 0 obj
-<< /Dest [ 36 0 R
+50 0 obj
+<< /Dest [ 38 0 R
  /XYZ
  40.01575
  143.0394
  0 ]
- /Parent 39 0 R
- /Prev 40 0 R
+ /Parent 45 0 R
+ /Prev 49 0 R
+ /Title (Future Use) >>
+endobj
+51 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 40.01575
+ 110.2394
+ 0 ]
+ /Parent 42 0 R
+ /Prev 43 0 R
  /Title (Indices and tables) >>
 endobj
-48 0 obj
-<< /Count 6
+52 0 obj
+<< /Count 7
  /Kids [ 4 0 R
  5 0 R
- 22 0 R
- 23 0 R
- 32 0 R
- 36 0 R ]
+ 24 0 R
+ 25 0 R
+ 34 0 R
+ 38 0 R
+ 39 0 R ]
  /Type /Pages >>
 endobj
-49 0 obj
+53 0 obj
 << /Length 953 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -2560,7 +2750,7 @@ Q
 endstream
 
 endobj
-50 0 obj
+54 0 obj
 << /Length 79 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -2571,8 +2761,8 @@ Q
 endstream
 
 endobj
-51 0 obj
-<< /Length 2404 >>
+55 0 obj
+<< /Length 2653 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -2588,17 +2778,17 @@ BT 1 0 0 1 0 9.64 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Contents) Tj T* 
 Q
 Q
 q
-1 0 0 1 40.01575 625.0394 cm
+1 0 0 1 40.01575 607.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 0 129 cm
+1 0 0 1 0 147 cm
 q
 BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Welcome to F3's documentation!) Tj T* ET
 Q
 Q
 q
-1 0 0 1 443.2441 129 cm
+1 0 0 1 443.2441 147 cm
 q
 0 0 .501961 rg
 0 0 .501961 RG
@@ -2606,9 +2796,23 @@ BT 1 0 0 1 0 4.82 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
 Q
 Q
 q
-1 0 0 1 0 111 cm
+1 0 0 1 0 129 cm
 q
 BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Project Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 443.2441 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Setup) Tj T* ET
 Q
 Q
 q
@@ -2622,7 +2826,7 @@ Q
 q
 1 0 0 1 0 93 cm
 q
-BT 1 0 0 1 20 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Setup) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Prerequisites) Tj T* ET
 Q
 Q
 q
@@ -2636,7 +2840,7 @@ Q
 q
 1 0 0 1 0 75 cm
 q
-BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Prerequisites) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (General Notes) Tj T* ET
 Q
 Q
 q
@@ -2650,7 +2854,7 @@ Q
 q
 1 0 0 1 0 57 cm
 q
-BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (General Notes) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Django) Tj T* ET
 Q
 Q
 q
@@ -2664,7 +2868,7 @@ Q
 q
 1 0 0 1 0 39 cm
 q
-BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Django) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (F3 project) Tj T* ET
 Q
 Q
 q
@@ -2678,7 +2882,7 @@ Q
 q
 1 0 0 1 0 21 cm
 q
-BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (F3 project) Tj T* ET
+BT 1 0 0 1 40 4.82 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Future Use) Tj T* ET
 Q
 Q
 q
@@ -2686,7 +2890,7 @@ q
 q
 0 0 .501961 rg
 0 0 .501961 RG
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
 Q
 Q
 q
@@ -2707,16 +2911,16 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 625.0394 cm
+1 0 0 1 40.01575 607.0394 cm
 Q
 q
-1 0 0 1 40.01575 625.0394 cm
+1 0 0 1 40.01575 607.0394 cm
 Q
  
 endstream
 
 endobj
-52 0 obj
+56 0 obj
 << /Length 79 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -2727,7 +2931,7 @@ Q
 endstream
 
 endobj
-53 0 obj
+57 0 obj
 << /Length 9832 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
@@ -3174,8 +3378,8 @@ Q
 endstream
 
 endobj
-54 0 obj
-<< /Length 10197 >>
+58 0 obj
+<< /Length 9719 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -3461,7 +3665,19 @@ q
 1 0 0 1 40.01575 159.0394 cm
 Q
 q
-1 0 0 1 40.01575 119.0394 cm
+1 0 0 1 40.01575 126.2394 cm
+q
+.8 .8 .8 RG
+.3 w
+.94902 .94902 .94902 rg
+n -10 0 525.2441 22.8 re B*
+Q
+q
+BT 1 0 0 1 0 6.748 Tm 16.8 TL /F3 14 Tf .12549 .262745 .360784 rg (Future Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 40.01575 86.23937 cm
 q
 .8 .8 .8 RG
 .3 w
@@ -3473,13 +3689,13 @@ BT 1 0 0 1 0 9.64 Tm 24 TL /F2 20 Tf .12549 .262745 .360784 rg (Indices and tabl
 Q
 Q
 q
-1 0 0 1 40.01575 107.0394 cm
+1 0 0 1 40.01575 74.23937 cm
 Q
 q
-1 0 0 1 40.01575 107.0394 cm
+1 0 0 1 40.01575 74.23937 cm
 Q
 q
-1 0 0 1 40.01575 95.03937 cm
+1 0 0 1 40.01575 62.23937 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3500,10 +3716,32 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 89.03937 cm
+1 0 0 1 40.01575 56.23937 cm
 Q
 q
-1 0 0 1 40.01575 77.03937 cm
+1 0 0 1 34.01575 807.2126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Future Use) Tj T* ET
+Q
+Q
+q
+1 0 0 1 34.01575 22.67717 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+ 
+endstream
+
+endobj
+59 0 obj
+<< /Length 938 >>
+stream
+1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 40.01575 775.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3524,10 +3762,10 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 71.03937 cm
+1 0 0 1 40.01575 769.0394 cm
 Q
 q
-1 0 0 1 40.01575 59.03937 cm
+1 0 0 1 40.01575 757.0394 cm
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
 q
@@ -3548,69 +3786,75 @@ q
 Q
 Q
 q
-1 0 0 1 40.01575 59.03937 cm
+1 0 0 1 40.01575 757.0394 cm
 Q
 q
-1 0 0 1 40.01575 59.03937 cm
+1 0 0 1 40.01575 757.0394 cm
 Q
 q
 1 0 0 1 34.01575 807.2126 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Indices and tables) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Future Use) Tj T* ET
 Q
 Q
 q
 1 0 0 1 34.01575 22.67717 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (3) Tj T* ET
 Q
 Q
  
 endstream
 
 endobj
-55 0 obj
-<< /Nums [ 0
- 56 0 R
- 1
- 57 0 R
- 2
- 58 0 R
- 3
- 59 0 R
- 4
- 60 0 R
- 5
- 61 0 R ] >>
-endobj
-56 0 obj
-<< /S /D
- /St 1 >>
-endobj
-57 0 obj
-<< /S /D
- /St 2 >>
-endobj
-58 0 obj
-<< /S /r
- /St 1 >>
-endobj
-59 0 obj
-<< /S /r
- /St 2 >>
-endobj
 60 0 obj
-<< /S /D
- /St 1 >>
+<< /Nums [ 0
+ 61 0 R
+ 1
+ 62 0 R
+ 2
+ 63 0 R
+ 3
+ 64 0 R
+ 4
+ 65 0 R
+ 5
+ 66 0 R
+ 6
+ 67 0 R ] >>
 endobj
 61 0 obj
 << /S /D
+ /St 1 >>
+endobj
+62 0 obj
+<< /S /D
  /St 2 >>
 endobj
+63 0 obj
+<< /S /r
+ /St 1 >>
+endobj
+64 0 obj
+<< /S /r
+ /St 2 >>
+endobj
+65 0 obj
+<< /S /D
+ /St 1 >>
+endobj
+66 0 obj
+<< /S /D
+ /St 2 >>
+endobj
+67 0 obj
+<< /S /D
+ /St 3 >>
+endobj
 xref
-0 62
+0 68
 0000000000 65535 f
 0000000075 00000 n
 0000000186 00000 n
@@ -3634,53 +3878,59 @@ xref
 0000003689 00000 n
 0000003889 00000 n
 0000004089 00000 n
-0000004475 00000 n
-0000004709 00000 n
-0000004912 00000 n
-0000005124 00000 n
-0000005413 00000 n
-0000005654 00000 n
-0000005785 00000 n
-0000006014 00000 n
-0000006131 00000 n
-0000006253 00000 n
-0000006544 00000 n
-0000006669 00000 n
-0000006872 00000 n
-0000006999 00000 n
-0000007254 00000 n
-0000007371 00000 n
-0000007554 00000 n
-0000007638 00000 n
-0000007829 00000 n
-0000007968 00000 n
-0000008134 00000 n
-0000008266 00000 n
-0000008413 00000 n
-0000008553 00000 n
-0000008682 00000 n
-0000008819 00000 n
-0000008930 00000 n
-0000009941 00000 n
-0000010077 00000 n
-0000012540 00000 n
-0000012676 00000 n
-0000022567 00000 n
-0000032824 00000 n
-0000032935 00000 n
-0000032974 00000 n
-0000033013 00000 n
-0000033052 00000 n
-0000033091 00000 n
-0000033130 00000 n
+0000004289 00000 n
+0000004489 00000 n
+0000004893 00000 n
+0000005127 00000 n
+0000005330 00000 n
+0000005542 00000 n
+0000005831 00000 n
+0000006072 00000 n
+0000006203 00000 n
+0000006432 00000 n
+0000006549 00000 n
+0000006671 00000 n
+0000006962 00000 n
+0000007087 00000 n
+0000007290 00000 n
+0000007417 00000 n
+0000007672 00000 n
+0000007906 00000 n
+0000008023 00000 n
+0000008206 00000 n
+0000008290 00000 n
+0000008481 00000 n
+0000008620 00000 n
+0000008786 00000 n
+0000008918 00000 n
+0000009065 00000 n
+0000009205 00000 n
+0000009349 00000 n
+0000009478 00000 n
+0000009615 00000 n
+0000009735 00000 n
+0000010746 00000 n
+0000010882 00000 n
+0000013594 00000 n
+0000013730 00000 n
+0000023621 00000 n
+0000033399 00000 n
+0000034395 00000 n
+0000034519 00000 n
+0000034558 00000 n
+0000034597 00000 n
+0000034636 00000 n
+0000034675 00000 n
+0000034714 00000 n
+0000034753 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
  [(-\270/\215\023\374\232\255\017j\310\301DYu\363) (-\270/\215\023\374\232\255\017j\310\301DYu\363)] 
 
- /Info 38 0 R
- /Root 37 0 R
- /Size 62 >>
+ /Info 41 0 R
+ /Root 40 0 R
+ /Size 68 >>
 startxref
-33169
+34792
 %%EOF
