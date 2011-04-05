@@ -3,15 +3,17 @@
 <html>
 <head>
     <title>{{ title }}</title>
+    <link rel="stylesheet" type="text/css" href="media/css/base.css">
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.8.2r1/build/reset-fonts-grids/reset-fonts-grids.css&2.8.2r1/build/base/base-min.css">
 </head>
-<body>
-    <div id="header">
-        <img src="{{ MEDIA_URL }}images/header.png" alt="F3 Logo">
+<body id="doc2">
+    <div id="hd">
+        <img src="media/images/header.png" alt="F3 Logo">
     </div>
     {%  block content %}
         {# Stuff goes here #}
     {% endblock %}
-    <div id="footer">
+    <div id="ft">
         Change me!
     </div>
 </body>

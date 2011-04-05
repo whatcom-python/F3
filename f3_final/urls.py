@@ -1,5 +1,6 @@
 from django.conf.urls.defaults import patterns, url
 from django.views.generic import list_detail
+from django.conf import settings
 
 import views
 
@@ -14,3 +15,10 @@ urlpatterns = patterns('',
                        url(r'^$', views.index, name="index"),
                        )
 
+# Django's static file server is inefficient and insecure
+# for production use, serve these files via Apache or (better) Nginx
+if settings.DEBUG:
+    urlpatterns += patterns('',
+        url(r'^media/(?P<path>.*)$', 'django.views.static.serve',
+            {'document_root': settings.MEDIA_ROOT}),
+    )
