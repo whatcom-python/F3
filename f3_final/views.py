@@ -6,7 +6,8 @@ from django.shortcuts import render_to_response, get_object_or_404, get_list_or_
 import f3_final.models as models
 
 def index(request):
-    return HttpResponse('this is the Hello world from f3')
+    return render_to_response("index.html",
+                              {})
 
 
 def farms_list(request):
@@ -34,7 +35,7 @@ def food_list(request):
                                'object_type': 'Food',
                                })
 
-    
+
 def food_current(request):
     thismonth = datetime.datetime.now().month
     obj_list = get_list_or_404(models.Food, months=thismonth)
@@ -45,7 +46,7 @@ def food_current(request):
                                'restriction': restr,
                                })
 
-    
+
 def farms_with_food(request, food_id):
     obj_list = get_list_or_404(models.Farm, confirmed_foods=food_id)
     restr = ' (with %s)' % models.Food.objects.get(id=food_id).name
