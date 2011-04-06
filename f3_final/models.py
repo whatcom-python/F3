@@ -32,6 +32,9 @@ class Farm(m.Model):
 
     def displaydescription(self):
         return "Located at:" + self.address or '???'
+    
+    class Meta:
+        ordering = ["name"]
 
 
 class FarmCategory(m.Model):

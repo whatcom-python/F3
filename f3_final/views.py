@@ -12,14 +12,10 @@ def index(request):
 
 def farms_list(request):
     obj_list = models.Farm.objects.all()
-    return render_to_response('myfirsttemplate.html',
-                              {'object_list': obj_list,
-                               'object_type': 'Farm',
-                               })
-#     return render_to_response('object_list.html',
-#                               {'object_list': obj_list,
-#                                'object_type': 'Farm',
-#                                })
+    return render_to_response('object_list.html',
+                               {'object_list': obj_list,
+                                'object_type': 'Farm',
+                                })
 
 
 def farms_detail(request, id):

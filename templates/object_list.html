@@ -1,12 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-    <!-- <link rel="stylesheet" type="text/css" href="/site_media/css/base.css" /> -->
-    <title>{{ object_type|capfirst }} List{{ restriction }}</title>
-</head>
+{% extends "base.html" %}}
 
-<body>
+{% block content %}
+
     <h1>{{ object_type|capfirst }} List{{ restriction }}</h1>
 
 	{% if object_list %}
@@ -25,6 +20,4 @@
 	  </tbody>
 	</table>
 	{% endif %}
-	
-</body>
-</html>
+{% endblock %}
