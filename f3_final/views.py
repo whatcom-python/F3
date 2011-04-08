@@ -20,8 +20,12 @@ def farms_list(request):
 
 def farms_detail(request, id):
     obj = get_object_or_404(models.Farm, id=id)
-    return HttpResponse("<html><body>Farm %s is called %s</body></html>" %
-                        (obj.id, obj.name))
+    return render_to_response('farm_detail.html',
+                               {'object':obj,
+                                'object_type':'Farm',
+                                })
+    #return HttpResponse("<html><body>Farm %s is called %s</body></html>" %
+    #                    (obj.id, obj.name))
 
 
 def food_list(request):

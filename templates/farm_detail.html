@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <h1>{{ object.name|capfirst }}</h1>
+    <h2> Contact Information </h2>
+    <ul>
+        <li>
+            {{object.contact_person}}            
+        </li>
+        <li>
+            {{object.address}}
+        </li>
+        <li>
+            {{object.phone_number}}
+        </li>
+        <li>
+            {% firstof object.website 'No Website'%}
+        </li>
+    </ul>
+    {%if object.get_service_offerings%}
+    <h2> Services Offered </h2>
+    <ul>
+    {%for service in object.get_service_offerings%}
+        <li>
+            {{service}}
+        </li>
+    {%endfor%}
+     </ul>
+    {%endif%}
+
+         
+
+{% endblock %}
