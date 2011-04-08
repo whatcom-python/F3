@@ -1,6 +1,8 @@
-from django.conf.urls.defaults import patterns, url
+from django.conf.urls.defaults import patterns, url,include
 from django.views.generic import list_detail
 from django.conf import settings
+from django.contrib import admin
+admin.autodiscover()
 
 import views
 
@@ -13,6 +15,7 @@ urlpatterns = patterns('',
                        url(r'^food/current$', views.food_current, name="food_current"),
 
                        url(r'^$', views.index, name="index"),
+                       url(r'^admin/', include(admin.site.urls))
                        )
 
 # Django's static file server is inefficient and insecure
