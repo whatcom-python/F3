@@ -81,25 +81,33 @@ F3 project
   there is some housekeeping to be done. Using the appropriate database tool
   create a database; suggested name-f3. Also create a user with a password that
   has sufficient rights to administer the database. You will then need to make
-  changes to the settings.py  file in the project root(F3/)::
-
-    DATABASE_ENGINE = 'sqlite3'             
-    # 'postgresql_psycopg2', 'postgresql', 'mysql', 'sqlite3' or 'oracle'.
-    DATABASE_NAME = os.path.join(basedir, 'f3.sqlite')      
-    # Or path to database file if using sqlite3.
-    #DATABASE_USER = ''                     
-    # Not used with sqlite3.
-    #DATABASE_PASSWORD = ''                 
-    # Not used with sqlite3.
-    #DATABASE_HOST = ''                     
-    # Set to empty string for localhost. Not used with sqlite3.
-    #DATABASE_PORT = ''                     
-    # Set to empty string for default. Not used with sqlite3.
-  
-  Note:The settings comments have been put under the SETTING for formatting
-  purposes. In the file they will follow the SETTING.
-  Set DATABASE_ENGINE to the appropriate one and change the DATABASE_NAME.
-  Uncomment the other SETTING lines and fill in the information as needed.
+  changes to the settings.py  file in the project root(F3/). Shown below is the
+  database setting method for Django 1.2+, where you can have more than one 
+  database for a project. If you are using Django version 1.2, your settings.py
+  file probably still has the old style. Just comment out the DATABASE_* 
+  settings and cut and paste the setting below::
+      
+    DATABASES ={
+    'default': {
+        'ENGINE': '',
+        'NAME': '',
+        'USER': '',
+        'PASSWORD':'',
+        'HOST':'',
+        'PORT':''
+        }
+    }
+    
+    Where:
+    ENGINE =    
+    'django.db.backends.postgresql_psycopg2'
+    'django.db.backends.postgresql'
+    'django.db.backends.mysql'
+    'django.db.backends.sqlite3'
+    'django.db.backends.oracle'
+    NAME = Or path to database file if using sqlite3.
+    
+  Fill in the appropriate settings.
   
 * Change directories to the root of the project F3/. From there run::
     

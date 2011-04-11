@@ -9,13 +9,13 @@
             {{ object.contact_person }}            
         </li>
         <li>
-            {{ object.address }}
+            {% firstof object.address 'Address unknown' %}
         </li>
         <li>
             {{ object.phone_number }}
         </li>
         <li>
-            {% firstof object.website 'No Website'%}
+            {% firstof object.website 'No Website' %}
         </li>
     </ul>
     {% if object.get_service_offerings %}
