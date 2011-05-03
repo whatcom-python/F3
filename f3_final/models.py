@@ -33,10 +33,8 @@ class Farm(m.Model):
         return service_list
         
     def acceptscreditcards(self):
-        if self.payment_methods.all():
-            for payment in self.payment_methods.all():
-                if payment.name in ["Visa","MC"]:
-                    return True
+        if "Visa & MC" in self.payment_methods.all():
+            return True
 
     def displaydescription(self):
         return "Located at:" + self.address or '???'
