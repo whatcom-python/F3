@@ -25,20 +25,22 @@ class Farm(m.Model):
 
     def get_absolute_url(self):
         return "/f3/farms/%s/" % self.id
-        
+
     def get_service_offerings(self):
         service_list = []
         for service in self.service_offerings.all():
             service_list.append(service.name)
         return service_list
-        
+
     def acceptscreditcards(self):
-        if "Visa & MC" in self.payment_methods.all():
-            return True
+        if self.payment_methods.all():
+            for payment in self.payment_methods.all():
+                if payment.name in ["Visa","MC"]:
+                    return True
 
     def displaydescription(self):
         return "Located at:" + self.address or '???'
-    
+
     class Meta:
         ordering = ["name"]
 
@@ -66,10 +68,10 @@ class Food(m.Model):
 
     def __unicode__(self):
         return self.name
-        
+
     def displaydescription(self):
         return self.type
-        
+
     class Meta:
         ordering = ["name"]
 

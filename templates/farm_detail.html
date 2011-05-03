@@ -1,15 +1,15 @@
 {% extends "base.html" %}
 
 {% block content %}
-    
+
     <h1>{{ object.name|capfirst }}</h1>
     <h2> Contact Information </h2>
     <ul>
         <li>
-            {{ object.contact_person }}            
+            {{ object.contact_person }}
         </li>
         <li>
-            {{ object.address }}
+            {% firstof object.address 'Address unknown' %}
         </li>
         <li>
             {{ object.phone_number }}

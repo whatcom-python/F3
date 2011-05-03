@@ -8,7 +8,6 @@ TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
     # --lfnw--
-     ('Sean', 'sean@logos.com'),
 )
 
 MANAGERS = ADMINS
@@ -25,7 +24,7 @@ DATABASE_NAME = os.path.join(basedir, 'f3.sqlite')      # Or path to database fi
 # although not all choices may be available on all operating systems.
 # If running in a Windows environment this must be set to the same as your
 # system time zone.
-TIME_ZONE = 'America/Chicago'
+TIME_ZONE = 'America/Los_Angeles'
 
 # Language code for this installation. All choices can be found here:
 # http://www.i18nguy.com/unicode/language-identifiers.html
