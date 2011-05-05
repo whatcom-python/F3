@@ -22,12 +22,13 @@ Setup
 Prerequisites
 =============
 
-* Python 2.5-2.7. Versions 3.0+ not supported
+* Python 2.6-2.7. Versions 3.0+ not supported
 * Django Current release
 * Database options.
     * Sqlite. Included in the above versions of Python. Default
     * Postgres. Some assembly required. 
     * MySQL. Some assembly required
+* geopy
 
 General Notes
 ============= 
