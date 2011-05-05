@@ -1,31 +1,33 @@
 import datetime
 
 from django.http import HttpResponse
-from django.shortcuts import render_to_response, get_object_or_404, get_list_or_404
+from django.shortcuts import render_to_response,get_object_or_404,get_list_or_404
+from django.template import RequestContext
+
 
 import f3_final.models as models
 
 def index(request):
     return render_to_response("index.html",
-                              {})
+                              {},context_instance=RequestContext(request))
 
 
 def farms_list(request):
     obj_list = models.Farm.objects.all()
-    return render_to_response('myfirsttemplate.html',
-                              {'object_list': obj_list,
-                               'object_type': 'Farm',
-                               })
-#     return render_to_response('object_list.html',
-#                               {'object_list': obj_list,
-#                                'object_type': 'Farm',
-#                                })
+    return render_to_response('object_list.html',
+                               {'object_list': obj_list,
+                                'object_type': 'Farm',
+                                },context_instance=RequestContext(request))
 
 
 def farms_detail(request, id):
     obj = get_object_or_404(models.Farm, id=id)
-    return HttpResponse("<html><body>Farm %s is called %s</body></html>" %
-                        (obj.id, obj.name))
+    return render_to_response('farm_detail.html',
+                               {'object':obj,
+                                'object_type':'Farm',
+                                },context_instance=RequestContext(request))
+    #return HttpResponse("<html><body>Farm %s is called %s</body></html>" %
+    #                    (obj.id, obj.name))
 
 
 def food_list(request):
@@ -33,7 +35,7 @@ def food_list(request):
     return render_to_response('object_list.html',
                               {'object_list': obj_list,
                                'object_type': 'Food',
-                               })
+                               },context_instance=RequestContext(request))
 
 
 def food_current(request):
@@ -44,7 +46,7 @@ def food_current(request):
                               {'object_list': obj_list,
                                'object_type': 'Food',
                                'restriction': restr,
-                               })
+                               },context_instance=RequestContext(request))
 
 
 def farms_with_food(request, food_id):
@@ -54,4 +56,4 @@ def farms_with_food(request, food_id):
                               {'object_list': obj_list,
                                'object_type': 'Farm',
                                'restriction': restr,
-                               })
+                               },context_instance=RequestContext(request))

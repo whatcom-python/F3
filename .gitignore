@@ -1,5 +1,6 @@
 *.pyc
 *.db
+*~
 *.sqlite
 .idea/*
 .*project

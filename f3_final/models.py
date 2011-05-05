@@ -6,32 +6,43 @@ class Farm(m.Model):
     name = m.CharField(max_length=100)
     contact_person = m.CharField(max_length=100)
     address = m.TextField()
-    latitude = m.FloatField(null=True)
-    longitude = m.FloatField(null=True)
+    latitude = m.FloatField(null=True,blank=True)
+    longitude = m.FloatField(null=True,blank=True)
     phone_number = m.CharField(max_length=30)
-    website = m.URLField()
-    email_address = m.EmailField()
-    description = m.TextField()
-    hours_of_operation = m.CharField(max_length=100)
-    seasonal_operation = m.CharField(max_length=100)
-    service_offerings = m.ManyToManyField('ServiceOffering')
-    payment_methods = m.ManyToManyField('PaymentMethod')
-    sustainability_indicators = m.ManyToManyField('SustainabilityIndicator')
-    categories = m.ManyToManyField('FarmCategory')
-    confirmed_foods = m.ManyToManyField('Food')
+    website = m.URLField(blank=True)
+    email_address = m.EmailField(blank=True)
+    description = m.TextField(blank=True)
+    hours_of_operation = m.CharField(max_length=100,blank=True)
+    seasonal_operation = m.CharField(max_length=100,blank=True)
+    service_offerings = m.ManyToManyField('ServiceOffering',blank=True)
+    payment_methods = m.ManyToManyField('PaymentMethod',blank=True)
+    sustainability_indicators = m.ManyToManyField('SustainabilityIndicator',blank=True)
+    categories = m.ManyToManyField('FarmCategory',blank=True)
+    confirmed_foods = m.ManyToManyField('Food',blank=True)
 
     def __unicode__(self):
         return self.name
 
     def get_absolute_url(self):
         return "/f3/farms/%s/" % self.id
-        
+
+    def get_service_offerings(self):
+        service_list = []
+        for service in self.service_offerings.all():
+            service_list.append(service.name)
+        return service_list
+
     def acceptscreditcards(self):
-        if "Visa & MC" in self.payment_methods.all():
-            return True
+        if self.payment_methods.all():
+            for payment in self.payment_methods.all():
+                if payment.name in ["Visa","MC"]:
+                    return True
 
     def displaydescription(self):
         return "Located at:" + self.address or '???'
+
+    class Meta:
+        ordering = ["name"]
 
 
 class FarmCategory(m.Model):
@@ -57,6 +68,12 @@ class Food(m.Model):
 
     def __unicode__(self):
         return self.name
+
+    def displaydescription(self):
+        return self.type
+
+    class Meta:
+        ordering = ["name"]
 
 
 class FoodType(m.Model):
