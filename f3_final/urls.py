@@ -12,10 +12,11 @@ urlpatterns = patterns('',
 
                        url(r'^farms/with/food/(?P<food_id>\d+)/$', views.farms_with_food, name="farms_with_food"),
                        url(r'^food/$', views.food_list, name="food_list"),
+                       url(r'^food/(?P<name>[\w ]+)/$', views.food_detail, name="food_detail"),
                        url(r'^food/current$', views.food_current, name="food_current"),
 
                        url(r'^$', views.index, name="index"),
-                       url(r'^admin/', include(admin.site.urls))
+                       #url(r'^admin/', include(admin.site.urls))
                        )
 
 # Django's static file server is inefficient and insecure

@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    <h1>{{ object.name|capfirst }}</h1>
+    <p><strong>Food Type:</strong> {{ object.type }}</p>
+
+    <h2> Months Available </h2>
+    <ul>
+    {% for month in object.months.all %}
+        <li>
+            {{ month }}
+        </li>
+    {% endfor %}
+     </ul>
+
+
+{% endblock %}

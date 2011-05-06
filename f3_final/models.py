@@ -69,6 +69,9 @@ class Food(m.Model):
     def __unicode__(self):
         return self.name
 
+    def get_absolute_url(self):
+        return "/f3/food/%s/" % self.name
+
     def displaydescription(self):
         return self.type
 

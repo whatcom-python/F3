@@ -88,5 +88,5 @@ INSTALLED_APPS = (
     # the F3 app (initial skeleton)
     #'lfnw.f3_0',
     # the F3 app (final version)
-    'f3.f3_final',
+    'f3_final',
 )

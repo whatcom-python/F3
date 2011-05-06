@@ -26,8 +26,6 @@ def farms_detail(request, id):
                                {'object':obj,
                                 'object_type':'Farm',
                                 },context_instance=RequestContext(request))
-    #return HttpResponse("<html><body>Farm %s is called %s</body></html>" %
-    #                    (obj.id, obj.name))
 
 
 def food_list(request):
@@ -47,6 +45,14 @@ def food_current(request):
                                'object_type': 'Food',
                                'restriction': restr,
                                },context_instance=RequestContext(request))
+
+
+def food_detail(request, name):
+    obj = get_object_or_404(models.Food, name=name)
+    return render_to_response('food_detail.html',
+                               {'object':obj,
+                                'object_type':'Food',
+                                },context_instance=RequestContext(request))
 
 
 def farms_with_food(request, food_id):
