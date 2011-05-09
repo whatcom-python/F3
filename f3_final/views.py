@@ -1,10 +1,14 @@
-import datetime, json
+import datetime
+
+try:
+    import json
+except ImportError:
+    import simplejson as json
 
 from django.http import HttpResponse
 from django.shortcuts import render_to_response, get_object_or_404, get_list_or_404
 from django.template import RequestContext
-
-
+from django.template.loader import get_template
 import f3_final.models as models
 
 def index( request ):
