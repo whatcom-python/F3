@@ -8,7 +8,6 @@ TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
     # --lfnw--
-     ('Sean', 'sean@logos.com'),
 )
 
 MANAGERS = ADMINS
@@ -25,7 +24,7 @@ DATABASE_NAME = os.path.join(basedir, 'f3.sqlite')      # Or path to database fi
 # although not all choices may be available on all operating systems.
 # If running in a Windows environment this must be set to the same as your
 # system time zone.
-TIME_ZONE = 'America/Chicago'
+TIME_ZONE = 'America/Los_Angeles'
 
 # Language code for this installation. All choices can be found here:
 # http://www.i18nguy.com/unicode/language-identifiers.html
@@ -41,10 +40,12 @@ USE_I18N = True
 # Example: "/home/media/media.lawrence.com/"
 MEDIA_ROOT = os.path.join(basedir, 'media')
 
+
+
 # URL that handles the media served from MEDIA_ROOT. Make sure to use a
 # trailing slash if there is a path component (optional in other cases).
 # Examples: "http://media.lawrence.com", "http://example.com/media/"
-MEDIA_URL = '/media/'
+MEDIA_URL = '/f3/media/'
 
 # URL prefix for admin media -- CSS, JavaScript and images. Make sure to use a
 # trailing slash.
@@ -60,6 +61,7 @@ TEMPLATE_LOADERS = (
     'django.template.loaders.app_directories.load_template_source',
 #     'django.template.loaders.eggs.load_template_source',
 )
+
 
 MIDDLEWARE_CLASSES = (
     'django.middleware.common.CommonMiddleware',
@@ -86,5 +88,5 @@ INSTALLED_APPS = (
     # the F3 app (initial skeleton)
     #'lfnw.f3_0',
     # the F3 app (final version)
-    'f3.f3_final',
+    'f3_final',
 )
