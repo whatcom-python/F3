@@ -28,6 +28,8 @@ Prerequisites
     * Sqlite. Included in the above versions of Python. Default
     * Postgres. Some assembly required. 
     * MySQL. Some assembly required
+* geopy
+* simplejson is required on Python 2.5.
 
 General Notes
 ============= 
