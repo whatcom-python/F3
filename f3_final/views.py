@@ -29,13 +29,8 @@ def farms_detail( request, id ):
     return render_to_response( 'farm_detail.html',
                                {'object':obj,
                                 'object_type':'Farm',
-<<<<<<< HEAD
                                 },context_instance=RequestContext(request))
-=======
-                                }, context_instance = RequestContext( request ) )
-    #return HttpResponse("<html><body>Farm %s is called %s</body></html>" %
-    #                    (obj.id, obj.name))
->>>>>>> dd84ade4bff83b13189bf216a2947946ff654cd8
+
 
 
 def food_list( request ):
@@ -57,7 +52,6 @@ def food_current( request ):
                                }, context_instance = RequestContext( request ) )
 
 
-<<<<<<< HEAD
 def food_detail(request, name):
     obj = get_object_or_404(models.Food, name=name)
     return render_to_response('food_detail.html',
@@ -66,24 +60,18 @@ def food_detail(request, name):
                                 },context_instance=RequestContext(request))
 
 
-def farms_with_food(request, food_id):
+def farms_with_food( request, food_id ):
     obj_list = get_list_or_404(models.Farm, confirmed_foods=food_id)
     restr = ' (with %s)' % models.Food.objects.get(id=food_id).name
-    return render_to_response('object_list.html',
-=======
-def farms_with_food( request, food_id ):
-    obj_list = get_list_or_404( models.Farm, confirmed_foods = food_id )
-    restr = ' (with %s)' % models.Food.objects.get( id = food_id ).name
     return render_to_response( 'object_list.html',
->>>>>>> dd84ade4bff83b13189bf216a2947946ff654cd8
                               {'object_list': obj_list,
                                'object_type': 'Farm',
                                'restriction': restr,
                                }, context_instance = RequestContext( request ) )
 
 def farm_json_for_map( request ):
-    return HttpResponse( 
-                        json.dumps( 
+    return HttpResponse(
+                        json.dumps(
                                    [
                                        [
                                         farm.name,
