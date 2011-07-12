@@ -1,7 +1,6 @@
 from django.core.management.base import BaseCommand, CommandError
 from f3_final.models import Farm
 from geopy import geocoders
-from sys import stdin
 
 class Command( BaseCommand ):
     args = ''
