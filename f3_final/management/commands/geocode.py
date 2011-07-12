@@ -9,7 +9,9 @@ class Command( BaseCommand ):
 
     def handle( self, *args, **options ):
         g = geocoders.Google()
+        count = 0
         for farm in Farm.objects.all():
+            count = count + 1
             if farm.longitude == None and farm.latitude == None:
                 try:
                     place, ( lat, lng ) = g.geocode( farm.address + ', WA' )
@@ -18,3 +20,4 @@ class Command( BaseCommand ):
                 else:
                     farm.address, farm.latitude, farm.longitude = place, lat, lng
                     farm.save()
+        print count
