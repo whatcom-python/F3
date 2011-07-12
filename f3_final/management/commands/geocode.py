@@ -4,7 +4,7 @@ from geopy import geocoders
 
 class Command( BaseCommand ):
     args = ''
-    help = 'Sets latitude and longitude for all farms'
+    help = 'Sets latitude and longitude for all farms with an address.'
 
     def handle( self, *args, **options ):
         g = geocoders.Google()
@@ -18,7 +18,7 @@ class Command( BaseCommand ):
                     except:
                         raise CommandError, "There was a error getting an lat/long pair for farm" % ( farm.name )
                     else:
-                        print "I think farm \"%s\" is at latitude \"%s\", longitude \"%s\"" % (farm.name, lat, lng)
+                        print "Farm \"%s\" is at latitude \"%s\", longitude \"%s\"" % ( farm.name, lat, lng )
                         farm.address, farm.latitude, farm.longitude = place, lat, lng
                         farm.save()
-        print "Added latitude and longitude to %s farms." % (count)
+        print "Added latitude and longitude to %s farms." % ( count )
