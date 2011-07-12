@@ -7,13 +7,12 @@
 	{% if object_list %}
 	<table>
 	  <thead>
-		<tr><th>ID</th><th>Name</th><th>Description</th></tr>
+		<tr><th>Name</th><th>Description</th></tr>
 	  </thead>
 	  <tbody>
 		{% for object in object_list %}
 		<tr>
-		  <td><a href="{{ object.get_absolute_url }}">{{ object.id }}</a></td>
-		  <td>{{ object.name }}</td>
+		  <td><a href="{{ object.get_absolute_url }}">{{ object.name }}</a></td>
 		  <td>{{ object.displaydescription }}</td>
 		</tr>
 		{% endfor %}
