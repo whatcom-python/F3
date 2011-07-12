@@ -12,7 +12,7 @@ class Command( BaseCommand ):
         for farm in Farm.objects.all():
             if farm.longitude == None and farm.latitude == None:
                 try:
-                    place, ( lat, lng ) = g.geocode( farm.address )
+                    place, ( lat, lng ) = g.geocode( farm.address + ', WA' )
                 except:
                     pass
                 else:
