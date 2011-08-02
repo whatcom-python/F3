@@ -1,12 +1,30 @@
+body {
+    font: Helvetica;
+    color: #FDFCBB;
+    height: 100%;
+}
+
+.first {
+    background-color: #35815A;
+}
+
+html {
+    background: #332810;
+}
+
 #hd {
-    background: url(../images/header_bg.png) repeat-x;
+    margin-right: auto;
+    margin-left: auto;
+    width: 630px;
 }
 
-#ft {
-    background: pink;
+a {
+    color: #B1B182;
 }
 
-#bd {
-	background: #332810;
-	color: white;
+#mapDiv {
+   position: absolute;
+   width: 400px;
+   height: 400px;
+    float: right;
 }

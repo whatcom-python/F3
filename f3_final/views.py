@@ -13,7 +13,7 @@ import f3_final.models as models
 
 def index( request ):
     return render_to_response( "index.html",
-                              {}, context_instance = RequestContext( request ) )
+                              {}, context_instance = RequestContext( request, {'onload': 'getMap();'} ) )
 
 
 def farms_list( request ):
@@ -69,7 +69,7 @@ def farms_with_food( request, food_id ):
                                'restriction': restr,
                                }, context_instance = RequestContext( request ) )
 
-def farm_json_for_map( request ):
+def farm_json_all( request ):
     return HttpResponse(
                         json.dumps(
                                    [

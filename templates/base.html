@@ -2,18 +2,36 @@
 <html>
 <head>
     <title>{{ title }}</title>
-    <link rel="stylesheet" type="text/css" href="/f3/media/css/base.css">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
     <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.8.2r1/build/reset-fonts-grids/reset-fonts-grids.css&2.8.2r1/build/base/base-min.css">
-</head>
-<body id="doc2">
-    <div id="hd">
-        <img src="/f3/media/images/header.png" alt="F3 Logo">
-    </div>
-    {%  block content %}
-        {# Stuff goes here #}
+    <link rel="stylesheet" type="text/css" href="/f3/media/css/base.css">
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script type="text/javascript" src="/f3/media/js/equalColumns.js"></script>
+    {% block head %}
     {% endblock %}
-    <div id="ft">
-        Courtesy of <a href="http://whatcompython.org/">Whatcom Python User Group </a>
+
+</head>
+<body onload="{{ onload }}">
+    <div id="doc2">
+        <div id="hd">
+            <img src="/f3/media/images/header.png" alt="F3 Logo">
+        </div>
+        <div id="bd">
+            <div class="yui-gf">
+                <div class="yui-u first">
+                    {% block sidebar %}
+                        {# Sidebar! #}
+                    {% endblock %}
+                </div>
+                <div class="yui-u">
+                    {%  block content %}
+                        {# Stuff goes here #}
+                    {% endblock %}
+                </div>
+            </div>
+        </div>
     </div>
 </body>
 </html>

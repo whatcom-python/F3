@@ -1,8 +1,12 @@
 {% extends "base.html" %}
 
-{% block content %}
+{% block head %}
+    <script charset="UTF-8" type="text/javascript" src="http://ecn.dev.virtualearth.net/mapcontrol/mapcontrol.ashx?v=7.0"></script>
+    <script type="text/javascript" src="/f3/media/js/indexMap.js"></script>
+{% endblock %}
 
-Cool Links:
+{% block sidebar %}
+Navigation:
 <ul>
   <li>
     <a href="{% url farms_list %}">List of Farms</a>
@@ -14,4 +18,8 @@ Cool Links:
     <a href="{% url food_current %}">Current Foods</a>
   </li>
 </ul>
+{% endblock %}
+
+{% block content %}
+    <div id='mapDiv'></div>
 {% endblock %}

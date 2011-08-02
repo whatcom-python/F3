@@ -18,8 +18,8 @@ urlpatterns = patterns( '',
                        url(r'^food/current$', views.food_current,
                            name="food_current"),
 
-                       url( r'^json_for_map',
-                           "f3_final.views.farm_json_for_map" ),
+                       url( r'^json/all',
+                           "f3_final.views.farm_json_all" ),
 
                        url( r'^$', views.index, name = "index" ),
                        #url( r'^admin/', include( admin.site.urls ) )
