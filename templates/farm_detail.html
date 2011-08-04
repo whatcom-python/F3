@@ -2,8 +2,8 @@
 
 {% block content %}
 
-    <h1>{{ object.name|capfirst }}</h1>
-    <h2> Contact Information </h2>
+    <h2>{{ object.name|capfirst }}</h2>
+    <h3> Contact Information </h3>
     <ul>
         <li>
             {{ object.contact_person }}
@@ -18,8 +18,14 @@
             {% firstof object.website 'No Website'%}
         </li>
     </ul>
+    {% if object.food_set %}
+        <h3>Foods Offered</h3>
+        {% for food in object.food_set %}
+            <li><a href=/f3/food/{{ food.id }}">{{ food.name }}</a></li>
+        {% endfor %}
+    {% endif %}
     {% if object.get_service_offerings %}
-    <h2> Services Offered </h2>
+    <h3> Services Offered </h3>
     <ul>
     {% for service in object.get_service_offerings %}
         <li>

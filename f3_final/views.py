@@ -1,4 +1,4 @@
-import datetime
+import datetime, calendar
 
 try:
     import json
@@ -11,9 +11,14 @@ from django.template import RequestContext
 from django.template.loader import get_template
 import f3_final.models as models
 
+named_month = lambda month_num:calendar.month_name[month_num]
+
 def index( request ):
     return render_to_response( "index.html",
-                              {}, context_instance = RequestContext( request, {'onload': 'getMap();'} ) )
+                              {}, context_instance = RequestContext(
+                                request
+                              )
+                            )
 
 
 def farms_list( request ):
@@ -32,32 +37,11 @@ def farms_detail( request, id ):
                                 },context_instance=RequestContext(request))
 
 
-
-def food_list( request ):
-    obj_list = models.Food.objects.all()
-    return render_to_response( 'object_list.html',
-                              {'object_list': obj_list,
-                               'object_type': 'Food',
-                               }, context_instance = RequestContext( request ) )
-
-
-def food_current( request ):
-    thismonth = datetime.datetime.now().month
-    obj_list = get_list_or_404( models.Food, months = thismonth )
-    restr = ' (month of %s)' % models.Month.objects.get( id = thismonth ).name
-    return render_to_response( 'object_list.html',
-                              {'object_list': obj_list,
-                               'object_type': 'Food',
-                               'restriction': restr,
-                               }, context_instance = RequestContext( request ) )
-
-
-def food_detail(request, name):
-    obj = get_object_or_404(models.Food, name=name)
+def food_detail(request, id):
+    food = models.Food.objects.get(id=id)
+    farmsWithFood = models.Farm.objects.filter(confirmed_foods=food)
     return render_to_response('food_detail.html',
-                               {'object':obj,
-                                'object_type':'Food',
-                                },context_instance=RequestContext(request))
+                               context_instance=RequestContext(request, {'food': food, 'farmsWithFood': farmsWithFood}))
 
 
 def farms_with_food( request, food_id ):
