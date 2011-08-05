@@ -1,17 +1,5 @@
 {% extends "base.html" %}
 
 {% block content %}
-
-Cool Links:
-<ul>
-  <li>
-    <a href="{% url farms_list %}">List of Farms</a>
-  </li>
-  <li>
-    <a href="{% url food_list %}">List of Foods</a>
-  </li>
-  <li>
-    <a href="{% url food_current %}">Current Foods</a>
-  </li>
-</ul>
+    <div id='map_canvas'></div>
 {% endblock %}

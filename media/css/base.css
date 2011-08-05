@@ -1,7 +1,78 @@
-#hd {
-    background: url(../images/header_bg.png) repeat-x;
+body {
+    font: Helvetica;
+    color: #FDFCBB;
+    font-size: 11pt;
+
+    margin: 0;
+    padding: 0;
+
 }
 
-#ft {
-    background: pink;
+.first {
+    background-color: #555911;
+    margin-bottom: 20px;
+    padding: 20px;
+    -webkit-border-top-right-radius: 26px;
+-webkit-border-bottom-right-radius: 26px;
+-moz-border-radius-topright: 26px;
+-moz-border-radius-bottomright: 26px;
+border-top-right-radius: 26px;
+border-bottom-right-radius: 26px;
+}
+
+#bd :nth-child(2) {
+    width: 70%;
+}
+
+#doc2 {
+    background: #383b18;
+    -webkit-border-bottom-right-radius: 26px;
+    -webkit-border-bottom-left-radius: 26px;
+    -moz-border-radius-bottomright: 26px;
+    -moz-border-radius-bottomleft: 26px;
+    border-bottom-right-radius: 26px;
+    border-bottom-left-radius: 26px;
+    margin-top: 0;
+    -webkit-box-shadow: 0px 10px 500px 0px #1a1a1a;
+-moz-box-shadow: 0px 10px 500px 0px #1a1a1a;
+box-shadow: 0px 10px 500px 0px #1a1a1a;
+}
+
+#hd {
+    padding-left: 20%;
+    margin-bottom: 0px;
+    width: 80%;
+    background-image: -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.18, rgb(56,59,24)),
+        color-stop(0.62, rgb(85,89,17))
+    );
+    background-image: -moz-linear-gradient(
+        center bottom,
+        rgb(56,59,24) 18%,
+        rgb(85,89,17) 62%
+    );
+
+}
+
+a {
+    color: #B1B182;
+}
+
+#map-canvas {
+   position: absolute;
+   width: 400px;
+   height: 400px;
+}
+
+html {
+    background-color: #555911;
+    height: 100%;
+
+}
+
+#farms, #foods {
+    width: 100%;
 }

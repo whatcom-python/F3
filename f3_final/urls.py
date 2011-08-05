@@ -7,19 +7,14 @@ admin.autodiscover()
 import views
 
 urlpatterns = patterns( '',
-                       url( r'^farms/$', views.farms_list, name = "farms_list" ),
-                       url( r'^farms/(?P<id>\d+)/$', views.farms_detail,
-                           name = "farms_detail" ),
-                       url(r'^farms/with/food/(?P<food_id>\d+)/$',
-                           views.farms_with_food, name="farms_with_food"),
-                       url(r'^food/$', views.food_list, name="food_list"),
-                       url(r'^food/(?P<name>[\w ]+)/$', views.food_detail,
-                           name="food_detail"),
-                       url(r'^food/current$', views.food_current,
-                           name="food_current"),
+                       url( r'^farm/(?P<id>\d+)/$', views.farms_detail,
+                           name = "farm_detail" ),
 
-                       url( r'^json_for_map',
-                           "f3_final.views.farm_json_for_map" ),
+                       url(r'^food/(?P<id>\d+)/$', views.food_detail,
+                           name="food_detail"),
+
+                       url( r'^json/all',
+                           "f3_final.views.farm_json_all" ),
 
                        url( r'^$', views.index, name = "index" ),
                        #url( r'^admin/', include( admin.site.urls ) )

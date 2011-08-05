@@ -2,17 +2,28 @@
 
 {% block content %}
 
-    <h1>{{ object.name|capfirst }}</h1>
-    <p><strong>Food Type:</strong> {{ object.type }}</p>
-
-    <h2> Months Available </h2>
+    <h2>{{ food.name|capfirst }}</h2>
+    <p>{{ food.description }}</p>
+    <h3> Months Available </h3>
     <ul>
-    {% for month in object.months.all %}
+    {% for month in food.months.all %}
         <li>
             {{ month }}
         </li>
     {% endfor %}
      </ul>
+
+    <h3>Available at Farms:</h3>
+        <ul>
+            {% if farmsWithFood.count < 1 %}
+                <li>None</li>
+            {% endif %}
+                {% for farm in farmsWithFood %}
+                    <li>
+                        <a href="/f3/farm/{{ farm.id }}">{{ farm.name }}</a>
+                    </li>
+                {% endfor %}
+        </ul>
 
 
 {% endblock %}

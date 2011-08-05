@@ -2,18 +2,61 @@
 <html>
 <head>
     <title>{{ title }}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.8.2r1/build/reset-fonts-grids/reset-fonts-grids.css&amp;2.8.2r1/build/base/base-min.css">
     <link rel="stylesheet" type="text/css" href="/f3/media/css/base.css">
-    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.8.2r1/build/reset-fonts-grids/reset-fonts-grids.css&2.8.2r1/build/base/base-min.css">
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+    <script type="text/javascript" src="/f3/media/js/equalColumns.js"></script>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="/f3/media/js/indexMap.js"></script>
+    <script type="text/javascript" src="/f3/media/js/menuRedirect.js"></script>
+
 </head>
-<body id="doc2">
-    <div id="hd">
-        <img src="/f3/media/images/header.png" alt="F3 Logo">
-    </div>
-    {%  block content %}
-        {# Stuff goes here #}
-    {% endblock %}
-    <div id="ft">
-        Courtesy of <a href="http://whatcompython.org/">Whatcom Python User Group </a>
+<body onload="{{ onload }}">
+    <div id="doc2">
+        <div id="hd">
+            <a href="/f3/"><img src="/f3/media/images/header.png" alt="F3 Logo"></a>
+        </div>
+        <div id="bd">
+            <div class="yui-gf">
+                <div class="yui-u first">
+                    Browse by Food:
+                    <br>
+                    <select id="foods">
+                        <option> Foods in Season</option>
+                        {% for currentFood in currentFoods %}
+                            <option value="{{ currentFood.id }}"> -- {{ currentFood.name }}</option>
+                        {% endfor %}
+                        <option>Foods not in Season (yet)</option>
+                        {% for otherFood in otherFoods %}
+                            <option value="{{ otherFood.id }}"> -- {{ otherFood.name }}</option>
+                        {% endfor %}
+                    </select>
+
+                    <br>
+                    <br>
+
+                    Browse Farms:
+                    <br>
+                    <select id="farms">
+                        <option>Farms</option>
+                        {% for farm in farms %}
+                            <option value="{{ farm.id }}"> -- {{ farm.name }}</option>
+                        {% endfor %}
+                    </select>
+                {% block sidebar %}
+                {% endblock %}
+            </div>
+                <div class="yui-u">
+                    {%  block content %}
+                        {# Stuff goes here #}
+                    {% endblock %}
+                </div>
+            </div>
+        </div>
     </div>
 </body>
 </html>

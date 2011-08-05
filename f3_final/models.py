@@ -65,6 +65,7 @@ class Food(m.Model):
                        help_text="the name of the food")
     type = m.ForeignKey('FoodType')
     months = m.ManyToManyField('Month')
+    description = m.TextField()
 
     def __unicode__(self):
         return self.name
